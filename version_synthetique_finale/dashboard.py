@@ -76,7 +76,7 @@ def load_data():
 
 @st.cache_data
 def load_results():
-    paths = ['models_v2/results_final.csv', 'results_final.csv']
+    paths = ['models_v2/results_final.csv']
     for p in paths:
         if os.path.exists(p):
             return pd.read_csv(p)
@@ -84,7 +84,7 @@ def load_results():
 
 @st.cache_resource
 def load_model():
-    paths = ['models_v2/best_model.pkl', 'best_model.pkl']
+    paths = ['models_v2/best_model.pkl']
     for p in paths:
         if os.path.exists(p):
             with open(p, 'rb') as f:
@@ -93,7 +93,7 @@ def load_model():
 
 @st.cache_data
 def load_meta():
-    paths = ['models_v2/best_meta.json', 'best_meta.json']
+    paths = ['models_v2/best_meta.json']
     for p in paths:
         if os.path.exists(p):
             with open(p, 'r', encoding='utf-8') as f:
