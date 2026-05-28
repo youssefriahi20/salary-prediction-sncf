@@ -22,7 +22,10 @@ st.set_page_config(
 # ─── CSS personnalisé SNCF ────────────────────────────────────────────────
 st.markdown("""
 <style>
+/* Fond général */
 .stApp { background-color: #F8F6FF; }
+
+/* Header SNCF */
 .sncf-header {
     background: linear-gradient(135deg, #3B1F6E 0%, #7B4FD6 100%);
     padding: 28px 32px 20px 32px;
@@ -30,39 +33,112 @@ st.markdown("""
     margin-bottom: 28px;
     box-shadow: 0 4px 20px rgba(59,31,110,0.25);
 }
-.sncf-header h1 { color: white !important; font-size: 1.8rem !important; margin: 0 0 4px 0 !important; font-weight: 700 !important; }
-.sncf-header p { color: rgba(255,255,255,0.80) !important; font-size: 0.95rem !important; margin: 0 !important; }
-.result-card { background: white; border: 2px solid #7B4FD6; border-radius: 16px; padding: 28px 32px; margin: 20px 0; box-shadow: 0 4px 24px rgba(123,79,214,0.15); }
-.salary-main { font-size: 3.2rem; font-weight: 800; color: #3B1F6E; text-align: center; margin: 8px 0 4px 0; letter-spacing: -1px; }
-.salary-sub { font-size: 1.1rem; color: #7B4FD6; text-align: center; margin-bottom: 16px; }
-.salary-range { background: #F5F0FF; border-radius: 10px; padding: 12px 20px; text-align: center; font-size: 1.05rem; color: #3B1F6E; margin: 8px 0; }
-.monthly { background: #E8F5E8; border-radius: 10px; padding: 10px 20px; text-align: center; font-size: 1.0rem; color: #1a7a1a; margin: 8px 0; }
-.model-badge { background: #EBF3FF; border-radius: 8px; padding: 8px 16px; font-size: 0.82rem; color: #2c5aa0; margin-top: 12px; text-align: center; }
-.ethic-box { background: #FFF8E1; border-left: 4px solid #F59E0B; border-radius: 0 8px 8px 0; padding: 10px 16px; font-size: 0.82rem; color: #92400E; margin-top: 16px; }
-.stButton > button { background: linear-gradient(135deg, #3B1F6E, #7B4FD6) !important; color: white !important; border: none !important; border-radius: 12px !important; font-size: 1.1rem !important; font-weight: 600 !important; padding: 14px 28px !important; width: 100% !important; box-shadow: 0 4px 12px rgba(59,31,110,0.3) !important; }
+.sncf-header h1 {
+    color: white !important;
+    font-size: 1.8rem !important;
+    margin: 0 0 4px 0 !important;
+    font-weight: 700 !important;
+}
+.sncf-header p {
+    color: rgba(255,255,255,0.80) !important;
+    font-size: 0.95rem !important;
+    margin: 0 !important;
+}
+
+/* Carte résultat */
+.result-card {
+    background: white;
+    border: 2px solid #7B4FD6;
+    border-radius: 16px;
+    padding: 28px 32px;
+    margin: 20px 0;
+    box-shadow: 0 4px 24px rgba(123,79,214,0.15);
+}
+.salary-main {
+    font-size: 3.2rem;
+    font-weight: 800;
+    color: #3B1F6E;
+    text-align: center;
+    margin: 8px 0 4px 0;
+    letter-spacing: -1px;
+}
+.salary-sub {
+    font-size: 1.1rem;
+    color: #7B4FD6;
+    text-align: center;
+    margin-bottom: 16px;
+}
+.salary-range {
+    background: #F5F0FF;
+    border-radius: 10px;
+    padding: 12px 20px;
+    text-align: center;
+    font-size: 1.05rem;
+    color: #3B1F6E;
+    margin: 8px 0;
+}
+.monthly {
+    background: #E8F5E8;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 1.0rem;
+    color: #1a7a1a;
+    margin: 8px 0;
+}
+
+/* Bandeau modèle */
+.model-badge {
+    background: #EBF3FF;
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-size: 0.82rem;
+    color: #2c5aa0;
+    margin-top: 12px;
+    text-align: center;
+}
+
+/* Avertissement éthique */
+.ethic-box {
+    background: #FFF8E1;
+    border-left: 4px solid #F59E0B;
+    border-radius: 0 8px 8px 0;
+    padding: 10px 16px;
+    font-size: 0.82rem;
+    color: #92400E;
+    margin-top: 16px;
+}
+
+/* Bouton principal */
+.stButton > button {
+    background: linear-gradient(135deg, #3B1F6E, #7B4FD6) !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 12px !important;
+    font-size: 1.1rem !important;
+    font-weight: 600 !important;
+    padding: 14px 28px !important;
+    width: 100% !important;
+    transition: all 0.2s !important;
+    box-shadow: 0 4px 12px rgba(59,31,110,0.3) !important;
+}
+.stButton > button:hover {
+    transform: translateY(-2px) !important;
+    box-shadow: 0 6px 20px rgba(59,31,110,0.4) !important;
+}
+
+/* Labels formulaire */
 label { font-weight: 600 !important; color: #3B1F6E !important; }
+
+/* Séparateur */
 hr { border-color: #E8E0FF !important; margin: 24px 0 !important; }
 </style>
 """, unsafe_allow_html=True)
-
-# ─── Fonction label diplôme (évite les f-string imbriquées) ───────────────
-def get_diplome_label(d):
-    if d == 'PhD':
-        return 'PhD +30% vs Bachelor'
-    elif d == "Master's":
-        return "Master's +20% vs Bachelor"
-    elif d == "Bachelor's":
-        return "Bachelor's — référence marché"
-    elif d == 'Baccalauréat':
-        return 'Baccalauréat -12% vs Bachelor'
-    else:
-        return 'CAP/BEP -22% vs Bachelor'
 
 # ─── Chargement du modèle ─────────────────────────────────────────────────
 @st.cache_resource
 def load_model():
     paths = [
-        "models_v3/best_model.pkl",
         "models_v2/best_model.pkl",
         "best_model.pkl",
         "modele_final.pkl",
@@ -76,7 +152,7 @@ def load_model():
 
 @st.cache_data
 def load_meta():
-    paths = ["models_v3/best_meta.json", "models_v2/best_meta.json", "best_meta.json"]
+    paths = ["models_v2/best_meta.json", "best_meta.json"]
     for p in paths:
         if os.path.exists(p):
             with open(p, encoding="utf-8") as f:
@@ -87,6 +163,7 @@ model, model_path = load_model()
 meta = load_meta()
 
 # ─── Données de référence ─────────────────────────────────────────────────
+# 35 métiers calibrés marché parisien
 POSTES_FR = sorted([
     "Data Scientist", "Data Analyst", "Data Engineer", "ML Engineer",
     "Développeur Software", "Chef de Projet IT", "Architecte Cloud",
@@ -107,37 +184,37 @@ DIPLOMES = ["CAP/BEP", "Baccalauréat", "Bachelor's", "Master's", "PhD"]
 st.markdown("""
 <div class="sncf-header">
     <h1>🚆 Estimation Salariale — SNCF Réseau</h1>
-    <p>Outil d'aide à la décision RH · Marché parisien · Usage en entretien</p>
+    <p>Outil d'aide à la décision RH · Marché parisien 2024 · Usage en entretien</p>
 </div>
 """, unsafe_allow_html=True)
 
 # ─── Message si modèle absent ─────────────────────────────────────────────
 if model is None:
-    st.error("Modèle non trouvé. Lancez d'abord notebook_M2_senior.ipynb pour entraîner le modèle.")
-    st.info("Chemin attendu : models_v3/best_model.pkl")
+    st.error("⚠️ Modèle non trouvé. Lancez d'abord `notebook_M2_senior.ipynb` pour entraîner le modèle.")
+    st.info("Chemin attendu : `models_v2/best_model.pkl`")
     st.stop()
 
 # ─── FORMULAIRE ───────────────────────────────────────────────────────────
-st.markdown("### Profil du candidat")
+st.markdown("### 📋 Profil du candidat")
 st.markdown("*Renseignez les informations disponibles en entretien (30 secondes)*")
 
 col1, col2 = st.columns(2)
 
 with col1:
     poste = st.selectbox(
-        "Intitulé de poste",
+        "🎯 Intitulé de poste",
         POSTES_FR,
         index=POSTES_FR.index("Data Analyst") if "Data Analyst" in POSTES_FR else 0,
         help="Poste pour lequel le candidat postule"
     )
     diplome = st.selectbox(
-        "Niveau de diplôme",
+        "🎓 Niveau de diplôme",
         DIPLOMES,
         index=DIPLOMES.index("Master's"),
         help="Dernier diplôme obtenu"
     )
     genre = st.selectbox(
-        "Genre",
+        "👤 Genre",
         ["Male", "Female"],
         format_func=lambda x: "Homme" if x == "Male" else "Femme",
         help="Genre du candidat"
@@ -145,7 +222,7 @@ with col1:
 
 with col2:
     experience = st.slider(
-        "Années d'expérience",
+        "📅 Années d'expérience",
         min_value=0.0,
         max_value=35.0,
         value=5.0,
@@ -153,30 +230,30 @@ with col2:
         help="Nombre total d'années d'expérience professionnelle"
     )
     age = st.slider(
-        "Age",
+        "🎂 Âge",
         min_value=18,
         max_value=65,
         value=30,
         step=1,
-        help="Age du candidat"
+        help="Âge du candidat"
     )
 
-    age_min_diplome = {
-        "CAP/BEP": 18, "Baccalauréat": 18,
-        "Bachelor's": 21, "Master's": 23, "PhD": 27
-    }
+    # Indicateur de cohérence âge/expérience
+    age_min_diplome = {"CAP/BEP": 18, "Baccalauréat": 18,
+                       "Bachelor's": 21, "Master's": 23, "PhD": 27}
     exp_max_possible = age - age_min_diplome.get(diplome, 21)
     if experience > exp_max_possible + 2:
-        st.warning("Expérience elevée pour cet age.")
-    else:
-        st.success("Profil cohérent")
+        st.warning(f"⚠️ {experience:.0f} ans d'expérience pour {age} ans semble élevé.")
+    elif experience <= exp_max_possible:
+        st.success(f"✅ Profil cohérent ({experience:.0f} ans exp. / {age} ans)")
 
 st.markdown("<hr>", unsafe_allow_html=True)
 
 # ─── PRÉDICTION ───────────────────────────────────────────────────────────
-predict_btn = st.button("Estimer le salaire du marché", use_container_width=True)
+predict_btn = st.button("💰 Estimer le salaire du marché", use_container_width=True)
 
 if predict_btn:
+    # Construire le DataFrame d'entrée
     input_data = pd.DataFrame([{
         "Age":                 age,
         "Gender":              genre,
@@ -187,8 +264,8 @@ if predict_btn:
 
     try:
         prediction = float(model.predict(input_data)[0])
-        mae  = meta.get("MAE", 5000)
-        r2   = meta.get("R2",  0.848)
+        mae = meta.get("MAE", 5000)
+        r2  = meta.get("R2",  0.848)
         algo = meta.get("Algorithme", "CatBoost (Optuna)")
         rang = meta.get("Rang", 1)
 
@@ -196,73 +273,90 @@ if predict_btn:
         sal_high = int(prediction + mae)
         sal_mois = int(prediction / 12)
 
+        # ── Carte résultat ──────────────────────────────────────────────
         st.markdown(f"""
         <div class="result-card">
             <p style="text-align:center; color:#7B4FD6; font-weight:600; margin-bottom:4px; font-size:0.9rem;">
-                ESTIMATION MARCHE PARISIEN 2024
+                ESTIMATION MARCHÉ PARISIEN 2024
             </p>
-            <div class="salary-main">{int(prediction):,} EUR /an</div>
-            <div class="salary-sub">Salaire net annuel estime — {poste}</div>
+            <div class="salary-main">{int(prediction):,} €<span style="font-size:1.4rem; font-weight:400"> /an</span></div>
+            <div class="salary-sub">Salaire net annuel estimé — {poste}</div>
             <div class="salary-range">
-                Fourchette de marche : <strong>{sal_low:,} EUR</strong> — <strong>{sal_high:,} EUR</strong> /an
-                <br><small style="color:#888">Intervalle de confiance MAE ({int(mae):,} EUR)</small>
+                📊 Fourchette de marché : <strong>{sal_low:,} €</strong> — <strong>{sal_high:,} €</strong> /an
+                <br><small style="color:#888">Intervalle de confiance ±MAE ({int(mae):,} €)</small>
             </div>
             <div class="monthly">
-                Mensuel estime : <strong>{sal_mois:,} EUR</strong> /mois net
+                💳 Mensuel estimé : <strong>{sal_mois:,} €</strong> /mois net
             </div>
             <div class="model-badge">
-                Modele : {algo} · R2={r2:.4f} · MAE={int(mae):,} EUR · Rang {rang}/12
-                | Source : Dataset synthetique Paris 2024 calibre INSEE/APEC
+                🤖 Modèle : {algo} · R²={r2:.4f} · MAE={int(mae):,}€ · Rang {rang}/12
+                &nbsp;|&nbsp; Source : Dataset synthétique Paris 2024 calibré INSEE/APEC
             </div>
             <div class="ethic-box">
-                Usage responsable : Cet outil est une aide a la decision basee sur des donnees de marche.
-                La remuneration finale integre les grilles SNCF Reseau, la politique salariale interne
-                et la negociation individuelle. Estimation fournie a titre indicatif uniquement.
+                ⚖️ <strong>Usage responsable :</strong> Cet outil est une aide à la décision basée sur des données de marché.
+                La rémunération finale intègre les grilles SNCF Réseau, la politique salariale interne et la négociation individuelle.
+                L'estimation est fournie à titre indicatif uniquement.
             </div>
         </div>
         """, unsafe_allow_html=True)
 
-        st.markdown("#### Contexte marche parisien")
+        # ── Contexte marché ──────────────────────────────────────────────
+        st.markdown("#### 📈 Contexte marché parisien")
         c1, c2, c3 = st.columns(3)
         with c1:
-            delta_marche = int((prediction - 32760) / 32760 * 100)
-            st.metric("Mediane INSEE Paris", "32 760 EUR/an", delta=str(delta_marche) + "% vs marche")
+            st.metric("Médiane INSEE Paris",  "32 760 €/an",
+                      delta=f"{int((prediction-32760)/32760*100):+d}% vs marché")
         with c2:
-            st.metric("Experience saisie", str(experience) + " ans", delta="+2.5%/an (APEC 2024)")
+            st.metric("Expérience saisie",   f"{experience:.1f} ans",
+                      delta=f"+2.5%/an (APEC 2024)")
         with c3:
-            st.metric("Diplome", diplome, delta="Impact significatif")
+            st.metric("Diplôme",             diplome,
+                      delta="Impact significatif sur salaire")
 
-        with st.expander("Facteurs d'influence sur l'estimation"):
+        # ── Facteurs d'influence ─────────────────────────────────────────
+        with st.expander("🔍 Facteurs d'influence sur l'estimation"):
             facteurs = {
-                "Metier (" + poste + ")":           "Variable la plus influente (SHAP #1)",
-                "Diplome (" + diplome + ")":         get_diplome_label(diplome),
-                "Experience (" + str(experience) + " ans)": "+" + str(round(experience * 2.5, 1)) + "% vs debutant (APEC 2024)",
-                "Age (" + str(age) + " ans)":        "Correle a l'experience (r=0.89)",
-                "Genre (" + genre + ")":             "Ecart marche observe H/F : +/-8% (INSEE 2023)",
+                f"📌 Métier ({poste})":           "Variable la plus influente (SHAP #1)",
+                f"🎓 Diplôme ({diplome})":         f"{'PhD +30%' if diplome=='PhD' else 'Master +20%' if diplome==\"Master's\" else 'Bachelor référence' if diplome==\"Bachelor's\" else 'Bac -12%' if diplome=='Baccalauréat' else 'CAP/BEP -22%'}  vs Bachelor's",
+                f"📅 Expérience ({experience} ans)": f"+{experience*2.5:.1f}% vs débutant (APEC 2024)",
+                f"🎂 Âge ({age} ans)":              "Corrélé à l'expérience (r=0.89)",
+                f"👤 Genre ({genre})":              "Écart marché observé H/F : +/-8% (INSEE 2023)",
             }
             for k, v in facteurs.items():
-                st.markdown("- **" + k + "** : " + v)
+                st.markdown(f"- **{k}** → {v}")
 
-        with st.expander("Postes similaires — Fourchettes indicatives"):
-            ref_data = [
-                {"Poste": "Data Analyst",      "Fourchette Paris net/an": "25 000 - 45 000 EUR", "Source": "APEC 2024"},
-                {"Poste": "Data Scientist",    "Fourchette Paris net/an": "32 000 - 55 000 EUR", "Source": "APEC 2024"},
-                {"Poste": "Data Engineer",     "Fourchette Paris net/an": "30 000 - 52 000 EUR", "Source": "APEC 2024"},
-                {"Poste": "Chef de Projet IT", "Fourchette Paris net/an": "28 000 - 50 000 EUR", "Source": "APEC 2024"},
-                {"Poste": "ML Engineer",       "Fourchette Paris net/an": "33 000 - 58 000 EUR", "Source": "APEC 2024"},
-            ]
+        # ── Comparaison postes similaires ────────────────────────────────
+        with st.expander("🏢 Postes similaires — Fourchettes indicatives"):
+            postes_proches = {
+                "Data Analyst":      "25 000 – 45 000 €",
+                "Data Scientist":    "32 000 – 55 000 €",
+                "Data Engineer":     (30000, 52000),
+                "Chef de Projet IT": (28000, 50000),
+                "ML Engineer":       (33000, 58000),
+            }
+            ref_data = []
+            for p_name, p_range in postes_proches.items():
+                if isinstance(p_range, tuple):
+                    p_str = f"{p_range[0]:,} – {p_range[1]:,} €"
+                else:
+                    p_str = p_range
+                ref_data.append({
+                    "Poste": p_name,
+                    "Fourchette marché Paris (net/an)": p_str,
+                    "Source": "APEC 2024"
+                })
             st.dataframe(pd.DataFrame(ref_data), hide_index=True, use_container_width=True)
 
     except Exception as e:
-        st.error("Erreur lors de la prediction : " + str(e))
-        st.info("Verifiez que le modele a ete entraine sur les bonnes colonnes.")
+        st.error(f"Erreur lors de la prédiction : {e}")
+        st.info("Vérifiez que le modèle a été entraîné sur les bonnes colonnes.")
 
 # ─── PIED DE PAGE ─────────────────────────────────────────────────────────
 st.markdown("<hr>", unsafe_allow_html=True)
 st.markdown("""
 <p style="text-align:center; color:#999; font-size:0.78rem;">
-SNCF Reseau · Direction des Ressources Humaines · Service Relations Sociales<br>
+SNCF Réseau · Direction des Ressources Humaines · Service Relations Sociales<br>
 Projet Data Science M2 — Youssef Riahi · EPSI Paris · Promo 2026<br>
-Dataset synthetique calibre INSEE BTS 2023 + APEC Ile-de-France 2024 · 2 500 profils parisiens
+Dataset : Synthétique calibré INSEE BTS 2023 + APEC Île-de-France 2024 · 2 500 profils parisiens
 </p>
 """, unsafe_allow_html=True)
