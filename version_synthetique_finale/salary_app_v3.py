@@ -62,11 +62,7 @@ def get_diplome_label(d):
 @st.cache_resource
 def load_model():
     paths = [
-        "models_v3/best_model.pkl",
         "models_v2/best_model.pkl",
-        "best_model.pkl",
-        "modele_final.pkl",
-        "model.pkl",
     ]
     for p in paths:
         if os.path.exists(p):
@@ -76,7 +72,7 @@ def load_model():
 
 @st.cache_data
 def load_meta():
-    paths = ["models_v3/best_meta.json", "models_v2/best_meta.json", "best_meta.json"]
+    paths = ["models_v2/best_meta.json"]
     for p in paths:
         if os.path.exists(p):
             with open(p, encoding="utf-8") as f:
