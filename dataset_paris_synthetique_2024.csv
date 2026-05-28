@@ -1,0 +1,2501 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary
+43,Male,PhD,Responsable RH,16.0,63600
+32,Male,CAP/BEP,Responsable Commercial,8.5,35900
+28,Male,Bachelor's,Assistant Administratif,5.5,19100
+61,Male,Bachelor's,Responsable Marketing,32.3,46300
+32,Female,PhD,Data Analyst,3.3,28800
+35,Female,Baccalauréat,Contrôleur de Gestion,13.7,32800
+44,Male,Bachelor's,Analyste Financier,17.4,40700
+27,Female,PhD,Architecte Cloud,0.0,51700
+31,Male,PhD,Data Analyst,3.4,48600
+36,Male,Bachelor's,Account Manager,8.7,41500
+28,Female,Baccalauréat,Ingénieur Systèmes,4.6,33900
+46,Female,Baccalauréat,Office Manager,25.1,32700
+38,Male,Master's,Analyste Financier,9.8,66400
+30,Male,Master's,Chef de Projet IT,6.2,41600
+46,Female,Master's,Technicien de Maintenance,18.2,41700
+35,Male,Master's,Enseignant,7.7,32500
+25,Male,Master's,Data Scientist,1.2,51200
+29,Female,Master's,DevOps Engineer,6.0,30500
+38,Male,Baccalauréat,Consultant IT,20.0,53300
+41,Male,Bachelor's,Chef de Projet IT,14.4,63400
+50,Female,Master's,Chef de Projet IT,11.1,39500
+53,Male,Bachelor's,Infirmier,29.2,29600
+29,Female,Bachelor's,Juriste,8.0,30900
+34,Female,PhD,Data Engineer,5.9,51900
+40,Male,Bachelor's,Analyste Financier,16.9,66000
+43,Male,PhD,Enseignant,15.8,39600
+54,Female,Bachelor's,Data Scientist,27.2,60800
+44,Female,Master's,Chef de Projet IT,21.0,71200
+29,Female,Master's,Data Engineer,3.2,48300
+62,Male,Master's,Juriste,28.9,76600
+28,Female,CAP/BEP,Consultant IT,8.3,29900
+33,Male,Master's,Logisticien,8.9,30800
+39,Female,Master's,Développeur Software,12.9,43500
+47,Female,Baccalauréat,Conducteur de Projet,21.2,42400
+42,Female,Master's,Responsable RH,15.8,47100
+49,Female,Master's,Contrôleur de Gestion,24.4,53900
+33,Male,Bachelor's,Responsable RH,8.9,27500
+29,Male,Baccalauréat,Directeur Financier,7.1,53700
+38,Female,Baccalauréat,Consultant Finance,11.5,52700
+47,Male,Bachelor's,Logisticien,15.1,26000
+42,Male,PhD,Data Scientist,13.7,61400
+46,Male,Master's,Chef de Projet IT,23.0,108300
+49,Male,Baccalauréat,Assistant Administratif,17.5,27500
+26,Male,Master's,Data Engineer,2.1,61200
+50,Male,Baccalauréat,Juriste,12.9,44300
+36,Female,Baccalauréat,Développeur Software,13.2,33200
+57,Female,Bachelor's,Chargé RH,10.5,27200
+33,Male,Bachelor's,Enseignant,9.2,23900
+46,Female,Master's,Data Engineer,18.1,50200
+23,Female,Master's,Développeur Software,0.0,35900
+45,Male,Bachelor's,Infirmier,21.6,37300
+35,Male,Bachelor's,Chargé de Communication,12.7,32600
+30,Male,Bachelor's,Technicien de Maintenance,9.0,31400
+31,Female,Bachelor's,Account Manager,7.2,37300
+41,Female,Bachelor's,Responsable RH,11.9,32500
+48,Female,Bachelor's,Chargé de Communication,16.6,24100
+45,Male,Bachelor's,Business Developer,16.4,39300
+49,Female,CAP/BEP,Office Manager,27.6,28400
+40,Male,PhD,Consultant IT,9.4,65500
+34,Female,Master's,Analyste Financier,11.0,57900
+57,Male,Master's,Data Analyst,18.4,47600
+23,Female,Master's,Responsable RH,0.0,27700
+27,Female,PhD,Chercheur,0.0,30800
+40,Male,PhD,Chargé de Communication,6.2,35900
+38,Female,Baccalauréat,Chargé RH,14.6,21000
+27,Female,PhD,ML Engineer,0.0,34500
+51,Male,Master's,Data Engineer,20.9,73300
+28,Male,Master's,Comptable,3.3,38000
+47,Male,Bachelor's,Responsable Commercial,8.7,56600
+33,Female,Master's,Ingénieur Systèmes,10.0,30700
+27,Female,PhD,Assistant Administratif,0.0,22800
+28,Male,Bachelor's,ML Engineer,5.8,47200
+33,Male,Baccalauréat,Commercial,8.2,20100
+37,Female,Master's,Responsable RH,10.2,35700
+36,Female,PhD,Pharmacien,6.0,35700
+59,Male,Master's,Développeur Software,23.5,83200
+43,Male,Bachelor's,Data Scientist,17.3,45100
+30,Male,Bachelor's,Assistant Administratif,4.7,19900
+53,Female,PhD,Data Engineer,23.8,54900
+34,Male,Master's,Analyste Financier,11.0,45000
+25,Male,Master's,Juriste,1.7,37700
+30,Female,Bachelor's,Développeur Software,5.4,30000
+35,Female,PhD,Chargé RH,4.2,30200
+42,Female,Bachelor's,Architecte Cloud,16.1,38900
+31,Male,Baccalauréat,Business Developer,4.2,26000
+27,Male,Master's,Trader,3.1,57800
+47,Male,Bachelor's,Ingénieur Systèmes,15.4,60300
+23,Female,Master's,Directeur Financier,0.0,62600
+38,Female,Baccalauréat,Technicien de Maintenance,13.7,20900
+35,Female,Bachelor's,Responsable Marketing,9.1,38100
+48,Male,PhD,Responsable RH,13.2,43700
+23,Female,Master's,DevOps Engineer,0.0,41900
+24,Male,Master's,Enseignant,1.0,30300
+33,Male,PhD,Analyste Financier,4.9,61600
+42,Male,Master's,Data Scientist,15.1,80000
+46,Female,Bachelor's,ML Engineer,23.4,63400
+23,Male,Master's,Chef de Projet IT,0.0,49500
+54,Female,CAP/BEP,Trader,30.6,51800
+52,Female,Bachelor's,Comptable,18.8,30900
+60,Male,PhD,Data Engineer,27.6,77500
+28,Female,CAP/BEP,Responsable Marketing,3.6,22500
+24,Male,Master's,Ingénieur Systèmes,0.6,38900
+35,Female,Master's,Contrôleur de Gestion,10.5,36400
+30,Female,Baccalauréat,Logisticien,8.2,33700
+39,Male,Master's,Data Analyst,11.0,72500
+50,Male,Master's,Data Analyst,3.6,45600
+25,Female,Bachelor's,ML Engineer,2.2,33500
+37,Male,Master's,Développeur Software,10.2,52800
+33,Female,Bachelor's,Data Scientist,9.9,37400
+40,Male,Master's,Chef de Projet IT,13.2,47400
+40,Male,PhD,Consultant IT,5.8,41600
+44,Male,Bachelor's,Chargé RH,9.4,20300
+33,Female,PhD,Consultant IT,4.8,55700
+57,Male,Master's,Responsable Marketing,29.5,68000
+33,Male,Bachelor's,Conducteur de Projet,6.6,24600
+33,Male,Bachelor's,Comptable,10.0,33300
+23,Male,Master's,Directeur Financier,0.0,65700
+24,Male,Bachelor's,Trader,1.6,45300
+42,Female,Bachelor's,Comptable,16.0,30800
+23,Female,Master's,Data Analyst,0.0,32200
+44,Female,Bachelor's,Commercial,13.7,24200
+26,Female,Master's,Directeur Financier,2.0,69100
+45,Male,Bachelor's,Chargé de Communication,19.7,25600
+45,Male,Master's,Conducteur de Projet,16.5,40700
+37,Female,PhD,Chercheur,8.7,36400
+25,Male,CAP/BEP,Chargé de Communication,5.8,21300
+36,Female,Master's,Ingénieur Systèmes,8.1,38100
+27,Male,PhD,Consultant Finance,0.0,55400
+33,Male,Bachelor's,Technicien de Maintenance,12.0,33500
+22,Female,Bachelor's,Conducteur de Projet,0.0,22100
+28,Male,Master's,Responsable RH,2.8,26400
+36,Female,Baccalauréat,Commercial,9.7,24100
+39,Female,Bachelor's,Consultant Finance,14.9,34500
+42,Male,Bachelor's,Développeur Software,12.2,53800
+33,Male,Baccalauréat,Commercial,12.9,49200
+34,Male,CAP/BEP,Comptable,13.6,27300
+36,Male,Bachelor's,Commercial,8.2,35100
+44,Male,Baccalauréat,Contrôleur de Gestion,12.7,41000
+33,Female,Bachelor's,Office Manager,11.4,20400
+46,Female,PhD,Pharmacien,15.4,58600
+50,Male,Bachelor's,Commercial,25.0,37100
+41,Male,Baccalauréat,Account Manager,18.6,41200
+43,Female,Bachelor's,Juriste,22.0,46400
+48,Female,PhD,Analyste Financier,8.5,45900
+39,Male,Master's,Consultant IT,9.1,49800
+41,Male,PhD,Pharmacien,8.5,68300
+24,Male,Bachelor's,Commercial,0.7,30600
+48,Male,Baccalauréat,Chef de Projet IT,30.0,62900
+24,Female,Bachelor's,Assistant Administratif,1.7,22300
+38,Male,Bachelor's,Chef de Projet IT,11.4,47500
+41,Female,Baccalauréat,Logisticien,18.9,27600
+49,Male,Bachelor's,Consultant Finance,23.2,59500
+39,Male,Master's,Développeur Software,9.1,42800
+36,Male,CAP/BEP,Assistant Administratif,10.2,17764
+29,Male,Master's,Commercial,4.3,54500
+30,Male,Master's,Responsable Commercial,5.1,42900
+32,Male,Bachelor's,Comptable,9.3,30700
+54,Female,Baccalauréat,Responsable Commercial,28.8,61900
+49,Male,Master's,Ingénieur Systèmes,19.9,71700
+28,Female,CAP/BEP,Account Manager,6.0,25300
+38,Male,Bachelor's,Comptable,12.7,29300
+47,Female,Bachelor's,Data Scientist,18.1,45500
+40,Male,Master's,Ingénieur Systèmes,16.2,59900
+27,Female,PhD,Pharmacien,0.0,49900
+42,Male,Baccalauréat,Account Manager,18.7,41800
+36,Male,Bachelor's,Contrôleur de Gestion,14.3,53800
+26,Female,Master's,Développeur Software,2.9,25200
+21,Female,Bachelor's,Data Analyst,0.0,18200
+34,Male,Master's,Consultant Finance,7.1,70600
+41,Female,Master's,Office Manager,18.0,35500
+44,Male,Baccalauréat,Architecte Cloud,19.0,53900
+32,Male,Bachelor's,Technicien de Maintenance,7.9,30900
+56,Male,Bachelor's,Assistant Administratif,24.1,28800
+40,Male,Master's,Commercial,9.8,36900
+39,Male,Master's,Commercial,12.8,49400
+39,Female,CAP/BEP,Comptable,17.2,25100
+40,Female,Bachelor's,Chargé RH,10.5,30300
+43,Male,Master's,Responsable Marketing,16.0,64400
+35,Female,Bachelor's,Chargé de Communication,14.0,26300
+26,Female,Master's,Data Scientist,1.1,30000
+52,Female,Master's,Chef de Projet IT,27.3,38400
+33,Male,PhD,Médecin,4.3,53900
+50,Female,Bachelor's,Comptable,24.5,32300
+36,Male,Bachelor's,Chercheur,12.6,26700
+39,Male,Master's,Consultant IT,16.0,86900
+36,Female,Master's,Consultant IT,8.9,44800
+23,Female,Bachelor's,Responsable Commercial,1.7,45900
+42,Female,CAP/BEP,Comptable,18.0,23700
+25,Female,Bachelor's,Chef de Projet IT,4.0,32900
+45,Male,Master's,Chef de Projet IT,13.1,50700
+27,Female,Master's,Consultant Finance,3.2,42100
+49,Female,CAP/BEP,Data Engineer,31.0,36900
+30,Male,Master's,Directeur Financier,7.0,104200
+40,Female,Baccalauréat,Conducteur de Projet,13.3,26300
+32,Male,PhD,Data Analyst,2.5,36100
+32,Female,Baccalauréat,Contrôleur de Gestion,12.2,36600
+49,Female,Master's,Analyste Financier,11.8,60800
+38,Female,Bachelor's,Account Manager,9.7,34900
+36,Female,Master's,Développeur Software,6.8,47000
+33,Male,PhD,Responsable Marketing,2.5,56200
+39,Male,Master's,Analyste Financier,10.4,63400
+28,Male,Baccalauréat,Responsable Commercial,5.2,27500
+41,Female,Bachelor's,Chargé RH,20.0,31300
+34,Female,Baccalauréat,Infirmier,15.6,25900
+36,Male,Master's,Responsable Marketing,7.2,38500
+35,Female,Bachelor's,Logisticien,10.7,24700
+38,Male,Master's,Trader,6.5,63200
+42,Male,CAP/BEP,Data Analyst,17.6,31100
+27,Female,Baccalauréat,Assistant Administratif,7.7,17764
+31,Female,Master's,Data Analyst,5.6,35100
+32,Female,Baccalauréat,Conducteur de Projet,9.1,25600
+24,Female,Master's,Conducteur de Projet,1.0,18600
+27,Male,PhD,ML Engineer,0.0,65700
+37,Male,Bachelor's,Account Manager,10.9,35600
+37,Male,Bachelor's,Analyste Financier,13.6,36300
+27,Male,CAP/BEP,Infirmier,6.4,21700
+51,Female,Master's,Responsable RH,18.9,57400
+37,Female,Baccalauréat,Assistant Administratif,17.5,26800
+38,Male,Master's,Juriste,8.3,53400
+40,Male,CAP/BEP,Commercial,13.6,19500
+28,Male,Master's,Responsable RH,4.2,43300
+43,Male,Baccalauréat,Business Developer,25.0,39300
+42,Male,Master's,Consultant Finance,19.0,102100
+30,Male,Master's,Account Manager,5.6,31400
+36,Female,Bachelor's,Assistant Administratif,9.9,17800
+45,Male,Master's,Chargé de Communication,11.9,41200
+39,Female,Bachelor's,Business Developer,7.8,29500
+38,Female,Master's,Responsable Commercial,5.9,52200
+43,Female,Master's,Directeur Financier,6.7,76900
+35,Male,Baccalauréat,Business Developer,12.2,31500
+53,Female,Bachelor's,Responsable Marketing,25.8,38400
+24,Male,Master's,Responsable Marketing,0.2,43600
+53,Female,Bachelor's,Conducteur de Projet,20.2,27600
+48,Male,Bachelor's,Chargé RH,16.0,32200
+51,Female,Baccalauréat,Juriste,33.0,66700
+37,Male,Bachelor's,Responsable Marketing,16.0,42200
+38,Male,Master's,Responsable Marketing,15.0,46400
+42,Female,CAP/BEP,Assistant Administratif,10.1,17764
+35,Female,Master's,Juriste,6.1,46800
+25,Male,Bachelor's,Directeur Financier,1.8,58200
+33,Female,PhD,Consultant IT,2.2,40900
+27,Male,Master's,Responsable Marketing,2.8,43400
+32,Female,Bachelor's,Assistant Administratif,9.1,23400
+29,Male,Master's,Commercial,3.1,31900
+51,Male,Master's,Consultant IT,18.5,58500
+38,Male,PhD,Data Analyst,5.2,49900
+38,Female,Master's,Data Scientist,12.5,48800
+28,Female,Master's,Architecte Cloud,4.2,55100
+31,Female,Master's,Trader,4.3,78000
+35,Female,PhD,Data Engineer,6.0,40100
+41,Male,Bachelor's,Assistant Administratif,18.4,42200
+50,Male,Baccalauréat,Analyste Financier,23.4,44000
+39,Male,Master's,Développeur Software,16.0,50700
+37,Female,PhD,Assistant Administratif,5.6,29100
+34,Female,Master's,Data Engineer,10.7,33600
+48,Male,Master's,Responsable Marketing,21.0,60900
+32,Female,Master's,Développeur Software,8.5,38000
+33,Female,Baccalauréat,Conducteur de Projet,9.1,22100
+38,Female,Bachelor's,Assistant Administratif,17.0,27100
+27,Male,Bachelor's,Commercial,4.0,39100
+39,Male,PhD,Responsable Commercial,7.7,64900
+35,Female,Master's,Analyste Financier,3.5,26300
+29,Female,PhD,Contrôleur de Gestion,1.2,33900
+44,Female,Master's,Ingénieur Systèmes,20.9,63300
+29,Female,PhD,Office Manager,1.6,35500
+34,Female,Bachelor's,Data Analyst,10.9,36200
+28,Male,Bachelor's,Commercial,4.0,32500
+44,Female,Master's,Technicien de Maintenance,18.2,33900
+36,Male,Bachelor's,Commercial,7.6,32500
+36,Male,PhD,Chargé RH,4.6,36400
+42,Female,PhD,Consultant IT,9.9,59900
+41,Female,PhD,Consultant IT,8.1,46500
+45,Male,Master's,Data Scientist,8.0,65400
+41,Female,PhD,Data Analyst,12.8,42100
+38,Male,Baccalauréat,Responsable Marketing,19.5,46600
+40,Female,Bachelor's,Data Engineer,16.4,48100
+32,Female,Master's,Contrôleur de Gestion,2.9,44700
+48,Female,Bachelor's,Assistant Administratif,27.0,28700
+57,Female,Master's,Data Engineer,23.2,82400
+37,Male,Master's,Contrôleur de Gestion,9.5,44400
+25,Female,Master's,ML Engineer,1.4,34600
+47,Female,CAP/BEP,Contrôleur de Gestion,17.2,22200
+39,Male,Bachelor's,Technicien de Maintenance,10.0,24700
+34,Male,PhD,Pharmacien,4.0,29700
+23,Female,Master's,Enseignant,0.0,21700
+30,Male,Baccalauréat,Commercial,2.8,22000
+35,Female,CAP/BEP,Account Manager,9.8,34000
+39,Female,Master's,Responsable RH,14.2,39500
+27,Male,Baccalauréat,Enseignant,6.7,17764
+21,Female,Bachelor's,Office Manager,0.0,26700
+27,Male,Bachelor's,Commercial,5.5,29000
+27,Female,PhD,Responsable Marketing,0.0,42600
+28,Male,Master's,Responsable Commercial,3.1,41000
+25,Male,Master's,Data Scientist,2.0,33200
+26,Female,Bachelor's,Commercial,2.9,33300
+38,Female,Master's,ML Engineer,9.2,46100
+35,Male,Master's,Data Scientist,12.0,58900
+24,Male,Master's,Enseignant,0.0,20100
+43,Male,Bachelor's,Comptable,18.3,27700
+26,Female,Baccalauréat,Développeur Software,4.2,18200
+56,Male,Baccalauréat,Comptable,19.7,35100
+33,Male,Bachelor's,Comptable,5.3,44000
+40,Female,PhD,Chef de Projet IT,10.7,47500
+36,Female,Master's,Responsable Marketing,6.0,46700
+29,Female,Master's,Directeur Financier,3.5,61300
+48,Female,Master's,Contrôleur de Gestion,16.1,54500
+36,Female,Bachelor's,Développeur Software,14.5,37300
+55,Female,Master's,Contrôleur de Gestion,21.3,46200
+32,Male,Master's,Consultant IT,8.2,49800
+42,Male,Master's,Data Scientist,16.7,78400
+41,Male,Bachelor's,Commercial,19.1,31800
+36,Male,Bachelor's,Chargé RH,9.0,19700
+43,Male,Master's,Data Analyst,18.5,48900
+45,Female,Bachelor's,Consultant IT,14.0,49900
+43,Female,Master's,DevOps Engineer,8.9,35900
+38,Male,Bachelor's,Juriste,16.0,71400
+45,Female,Master's,Data Analyst,11.1,42800
+31,Male,Bachelor's,Analyste Financier,9.2,39000
+30,Male,Baccalauréat,Consultant Finance,11.6,40300
+30,Male,Master's,Consultant IT,6.8,38400
+40,Male,Bachelor's,Infirmier,14.5,31200
+37,Male,CAP/BEP,Logisticien,19.0,35300
+46,Female,Bachelor's,Data Scientist,24.8,44400
+34,Male,Master's,Data Engineer,8.3,55000
+33,Male,Bachelor's,Assistant Administratif,5.4,30400
+34,Female,Baccalauréat,Infirmier,16.0,26800
+41,Female,Master's,Trader,9.4,75200
+39,Male,Bachelor's,Chargé RH,12.4,27200
+44,Male,Master's,Data Engineer,12.7,41200
+36,Male,Bachelor's,Data Scientist,2.1,67000
+38,Female,Master's,Data Scientist,12.6,61400
+35,Male,Bachelor's,Business Developer,10.7,40700
+39,Female,Master's,Ingénieur Systèmes,11.7,52600
+34,Male,Bachelor's,Assistant Administratif,8.8,23600
+38,Female,Bachelor's,Account Manager,13.1,32500
+41,Female,Bachelor's,Chef de Projet IT,10.0,31000
+52,Male,Bachelor's,Chargé de Communication,15.4,36300
+40,Male,Master's,Consultant IT,14.6,55600
+27,Male,PhD,ML Engineer,0.0,47500
+57,Male,Master's,Consultant IT,10.3,41600
+34,Female,PhD,Data Analyst,5.9,38500
+31,Female,Master's,Architecte Cloud,6.0,57000
+54,Male,Baccalauréat,Business Developer,24.4,58100
+37,Male,Master's,Développeur Software,14.0,41000
+33,Male,PhD,DevOps Engineer,4.7,54100
+31,Female,Baccalauréat,Commercial,4.9,19800
+21,Female,Bachelor's,Chargé RH,0.0,20200
+31,Female,Master's,Responsable RH,4.7,35000
+34,Female,Baccalauréat,Chef de Projet IT,13.9,28800
+30,Male,Bachelor's,Comptable,8.4,29400
+24,Female,Bachelor's,Business Developer,2.2,22900
+38,Male,Baccalauréat,Infirmier,17.5,32700
+44,Male,Master's,Ingénieur Systèmes,20.6,65600
+44,Male,Master's,Consultant IT,3.3,37000
+44,Female,CAP/BEP,Chef de Projet IT,12.1,31000
+45,Male,Master's,DevOps Engineer,18.6,77600
+32,Female,PhD,Chargé de Communication,5.0,26000
+42,Female,Master's,Analyste Financier,11.3,52000
+34,Male,Master's,Consultant IT,8.5,34200
+47,Male,Master's,Technicien de Maintenance,22.5,42400
+45,Male,Master's,Account Manager,12.9,35700
+47,Female,Master's,Logisticien,22.2,36200
+44,Male,Baccalauréat,Chargé RH,23.6,32800
+39,Female,Master's,Chef de Projet IT,16.0,50200
+42,Female,PhD,Responsable Commercial,9.1,43100
+27,Female,Master's,Médecin,2.0,72000
+48,Female,Master's,Chef de Projet IT,19.4,54000
+49,Male,Master's,Consultant IT,10.1,52100
+33,Female,Master's,Data Analyst,3.4,30000
+50,Female,PhD,Responsable RH,22.4,48300
+29,Male,Baccalauréat,Account Manager,5.6,23700
+51,Female,Baccalauréat,Logisticien,19.3,17764
+37,Male,Baccalauréat,Chargé RH,7.6,28000
+37,Male,Bachelor's,Logisticien,12.2,42700
+45,Female,Bachelor's,Juriste,11.2,28000
+36,Female,Master's,Architecte Cloud,10.2,73600
+24,Male,CAP/BEP,Chargé RH,5.0,20400
+30,Female,Baccalauréat,Infirmier,8.3,21200
+53,Female,Master's,Architecte Cloud,30.0,89800
+41,Male,Bachelor's,Data Engineer,16.9,43800
+37,Female,Bachelor's,Architecte Cloud,9.0,66600
+41,Female,PhD,Data Analyst,11.5,44200
+45,Male,Master's,Développeur Software,20.1,53800
+27,Male,PhD,Chercheur,0.0,40600
+25,Female,Master's,Responsable Marketing,1.8,22600
+33,Male,PhD,Juriste,2.0,42900
+33,Female,Master's,Data Analyst,10.0,32300
+42,Female,Baccalauréat,Développeur Software,11.8,35900
+28,Male,Master's,Data Engineer,2.7,31600
+31,Female,PhD,Responsable RH,3.8,38000
+35,Female,Master's,Responsable RH,6.4,28500
+39,Female,Bachelor's,Infirmier,13.6,38300
+42,Male,Master's,Développeur Software,9.8,51900
+35,Male,Baccalauréat,Développeur Software,13.8,35500
+25,Male,Master's,Contrôleur de Gestion,1.2,43600
+50,Female,Bachelor's,Comptable,6.0,20500
+40,Female,Master's,Contrôleur de Gestion,15.7,48900
+41,Male,Master's,Data Engineer,9.8,65100
+35,Female,Master's,Développeur Software,8.5,37800
+28,Male,Bachelor's,Comptable,6.3,31900
+37,Male,Master's,Infirmier,13.8,37900
+37,Male,PhD,Développeur Software,9.5,64200
+45,Female,Bachelor's,Enseignant,5.4,20800
+35,Female,Master's,Data Analyst,12.0,27700
+32,Male,Master's,Chef de Projet IT,6.1,70000
+36,Male,Bachelor's,Commercial,15.0,40400
+42,Female,Baccalauréat,Analyste Financier,24.0,52900
+47,Female,Bachelor's,Contrôleur de Gestion,26.0,42700
+39,Female,Master's,Enseignant,12.6,33700
+37,Female,Bachelor's,Comptable,7.2,20100
+34,Female,Bachelor's,DevOps Engineer,5.3,28000
+48,Female,Master's,Data Analyst,15.7,38300
+39,Male,Baccalauréat,Commercial,17.7,26700
+24,Female,Baccalauréat,Commercial,5.1,24600
+40,Male,Baccalauréat,Business Developer,13.2,31600
+35,Female,Baccalauréat,Architecte Cloud,14.1,45500
+35,Female,PhD,DevOps Engineer,7.0,46300
+48,Female,CAP/BEP,Comptable,16.2,18400
+41,Male,Master's,Data Scientist,18.0,53600
+50,Male,Master's,Data Scientist,23.2,81500
+40,Female,Bachelor's,Comptable,18.0,42000
+44,Female,Baccalauréat,Chargé RH,19.6,25600
+43,Female,PhD,Développeur Software,14.6,46100
+43,Male,Bachelor's,Commercial,15.1,51800
+31,Female,Bachelor's,Commercial,6.1,19900
+46,Male,Master's,Responsable Commercial,19.0,97800
+38,Male,Master's,Infirmier,12.6,29100
+39,Female,Baccalauréat,Comptable,18.7,24300
+39,Female,Master's,Data Scientist,8.9,52500
+36,Female,PhD,Développeur Software,6.9,48100
+40,Female,CAP/BEP,Conducteur de Projet,19.8,35900
+41,Female,Master's,Data Analyst,14.2,38200
+36,Male,Bachelor's,Data Analyst,5.7,23600
+28,Male,Master's,Responsable Marketing,2.8,33100
+43,Male,CAP/BEP,Commercial,14.9,31900
+20,Female,Baccalauréat,ML Engineer,1.4,29400
+41,Male,Bachelor's,Comptable,10.0,25700
+27,Female,Bachelor's,Assistant Administratif,1.3,27700
+41,Female,Master's,Business Developer,5.3,26500
+21,Female,Bachelor's,Office Manager,0.0,25800
+52,Male,Bachelor's,Chargé RH,20.5,35300
+26,Female,Bachelor's,Comptable,4.3,29400
+32,Male,Master's,ML Engineer,4.8,58000
+38,Male,PhD,Consultant IT,9.0,73700
+48,Female,Baccalauréat,Responsable RH,22.9,39900
+34,Male,Bachelor's,Chef de Projet IT,10.9,53500
+19,Male,Baccalauréat,Account Manager,0.4,32200
+32,Female,Master's,Data Analyst,5.0,19900
+18,Female,Baccalauréat,Business Developer,0.0,27700
+32,Male,Baccalauréat,Développeur Software,6.7,38400
+23,Female,Master's,Contrôleur de Gestion,0.0,25100
+40,Male,Master's,Data Analyst,8.9,38200
+33,Female,Master's,Responsable Marketing,8.0,43300
+32,Male,Master's,Comptable,6.2,36200
+36,Female,Baccalauréat,Business Developer,12.7,32600
+27,Female,Master's,Architecte Cloud,3.9,43300
+45,Female,PhD,Consultant IT,18.0,45400
+30,Female,Master's,Data Analyst,3.1,36800
+40,Male,Bachelor's,Data Analyst,8.9,36500
+56,Female,Bachelor's,Contrôleur de Gestion,22.3,52300
+29,Male,Master's,Enseignant,6.0,28300
+33,Male,Baccalauréat,Commercial,9.2,34800
+23,Male,Master's,Data Engineer,0.0,48600
+39,Female,Baccalauréat,Assistant Administratif,10.5,24900
+40,Female,Master's,Commercial,17.0,36700
+42,Male,CAP/BEP,Ingénieur Systèmes,20.0,34700
+51,Male,PhD,Data Engineer,20.5,85900
+22,Female,Bachelor's,Data Engineer,1.0,21300
+34,Male,Baccalauréat,Data Analyst,16.0,28200
+41,Male,Bachelor's,Comptable,16.3,25000
+24,Female,Master's,Responsable Marketing,0.0,27500
+30,Male,Master's,Chargé de Communication,1.6,30700
+18,Male,Baccalauréat,Analyste Financier,0.0,33700
+36,Male,Bachelor's,Comptable,8.5,33600
+44,Male,CAP/BEP,Commercial,7.0,25700
+33,Male,Master's,Consultant Finance,6.6,76800
+27,Male,CAP/BEP,Commercial,5.7,17764
+38,Female,Master's,Enseignant,5.6,26500
+39,Female,Master's,Consultant Finance,16.0,78100
+39,Female,Baccalauréat,Chargé de Communication,20.9,17764
+37,Male,Master's,Chercheur,13.8,49100
+51,Male,Baccalauréat,DevOps Engineer,18.7,62000
+31,Female,Bachelor's,Technicien de Maintenance,9.1,22200
+41,Male,Bachelor's,Commercial,9.3,31700
+35,Female,Baccalauréat,Chargé RH,7.7,17764
+27,Male,Master's,Data Scientist,3.2,53700
+27,Male,PhD,Chercheur,0.0,35900
+38,Male,Master's,Responsable Marketing,9.1,48000
+42,Male,Master's,Consultant IT,12.6,51700
+32,Male,Master's,Assistant Administratif,7.8,28600
+27,Male,PhD,Ingénieur Systèmes,0.0,45600
+43,Male,Master's,Développeur Software,17.5,48600
+34,Male,Master's,Responsable RH,8.3,60800
+42,Female,Master's,Développeur Software,12.3,33700
+46,Female,Baccalauréat,Chargé RH,23.3,26800
+50,Male,Master's,Développeur Software,12.7,64400
+58,Male,Master's,Médecin,20.4,64300
+46,Female,Master's,Comptable,19.3,29700
+46,Male,Baccalauréat,Business Developer,22.9,52400
+23,Male,Master's,Trader,0.0,54200
+50,Male,Baccalauréat,Commercial,27.9,47600
+35,Female,Master's,Data Analyst,3.1,27600
+28,Female,Baccalauréat,Data Scientist,10.0,30900
+52,Male,Master's,Commercial,29.0,39300
+41,Male,PhD,Chercheur,7.8,65600
+48,Female,Master's,Enseignant,24.4,28400
+35,Female,Bachelor's,Commercial,10.2,32600
+31,Male,Bachelor's,Comptable,7.8,35700
+29,Male,CAP/BEP,Data Engineer,11.0,36600
+43,Male,Master's,Infirmier,20.0,28200
+35,Male,Master's,Trader,8.1,73700
+32,Male,PhD,Analyste Financier,4.7,72400
+41,Male,Bachelor's,Commercial,10.3,46400
+37,Female,Master's,Responsable Commercial,13.4,43000
+56,Female,Master's,Data Scientist,16.4,51300
+60,Female,Baccalauréat,Logisticien,24.3,26900
+47,Male,Bachelor's,Analyste Financier,21.4,84300
+45,Female,Master's,Chef de Projet IT,17.0,73700
+25,Female,Master's,Responsable RH,1.4,23100
+34,Female,Baccalauréat,Chercheur,11.0,23300
+35,Male,Bachelor's,Commercial,14.0,34400
+36,Male,Bachelor's,Logisticien,9.2,28800
+27,Male,Bachelor's,Conducteur de Projet,2.1,29900
+55,Male,Bachelor's,Chargé RH,18.7,37200
+51,Male,Master's,ML Engineer,28.0,68500
+30,Male,Baccalauréat,Chargé RH,10.4,41700
+47,Female,PhD,Pharmacien,11.9,45300
+31,Male,PhD,Chercheur,2.5,55300
+42,Female,PhD,Data Analyst,15.0,43200
+31,Female,PhD,Consultant Finance,3.7,47700
+35,Female,Master's,Comptable,12.0,29700
+26,Male,Master's,ML Engineer,3.0,61900
+32,Female,Baccalauréat,Chargé RH,9.8,24300
+49,Female,Master's,Responsable RH,19.9,56200
+58,Male,Master's,Chargé RH,32.0,67600
+50,Male,Baccalauréat,Développeur Software,26.9,51300
+34,Male,Master's,Data Analyst,6.9,37200
+21,Female,Bachelor's,Chargé RH,0.0,19000
+53,Female,Baccalauréat,Data Analyst,35.0,46600
+56,Male,Bachelor's,Data Analyst,29.8,46800
+38,Male,Bachelor's,Développeur Software,8.3,41100
+30,Male,Master's,ML Engineer,5.2,72500
+34,Male,Bachelor's,Chargé RH,9.2,29900
+25,Male,Bachelor's,Account Manager,2.4,35200
+45,Male,Bachelor's,Commercial,17.0,28700
+42,Female,PhD,Responsable Marketing,9.7,37400
+42,Male,PhD,Chargé RH,9.0,35300
+41,Male,Master's,Comptable,14.1,34300
+42,Female,Bachelor's,Chargé RH,3.6,22600
+50,Male,Baccalauréat,Chargé RH,14.8,18600
+37,Female,Master's,Directeur Financier,6.3,52800
+48,Female,CAP/BEP,Account Manager,17.5,33500
+44,Male,Bachelor's,Comptable,23.0,34500
+21,Male,Bachelor's,Assistant Administratif,0.0,17764
+43,Male,CAP/BEP,Account Manager,18.7,29300
+43,Female,Master's,Consultant Finance,3.4,48700
+35,Female,Master's,Enseignant,12.0,29900
+32,Male,Bachelor's,Développeur Software,6.1,59000
+38,Male,Bachelor's,Assistant Administratif,7.4,20400
+50,Female,CAP/BEP,Chargé de Communication,31.4,41200
+29,Female,Bachelor's,Commercial,7.5,24800
+38,Female,Bachelor's,Chef de Projet IT,16.5,49000
+25,Female,Bachelor's,Business Developer,2.5,30200
+44,Female,Master's,DevOps Engineer,20.0,47400
+25,Male,Bachelor's,Commercial,3.2,22200
+33,Male,Master's,Juriste,4.1,49200
+41,Female,PhD,Chercheur,10.9,28400
+35,Male,Master's,Data Analyst,7.4,44800
+41,Male,PhD,DevOps Engineer,11.8,68900
+57,Male,Bachelor's,Commercial,26.0,37900
+48,Female,PhD,Responsable Marketing,9.3,50200
+45,Male,Master's,ML Engineer,21.4,73400
+48,Male,Master's,Data Analyst,17.5,54000
+38,Female,Baccalauréat,Comptable,20.0,35100
+48,Male,Bachelor's,Chargé de Communication,25.7,42100
+38,Female,Master's,Data Engineer,11.4,39200
+33,Male,Bachelor's,Technicien de Maintenance,12.0,27400
+25,Male,Bachelor's,Logisticien,1.8,28300
+36,Female,Master's,Contrôleur de Gestion,9.1,33300
+42,Female,Bachelor's,Assistant Administratif,12.9,17764
+23,Female,Master's,Architecte Cloud,0.0,45500
+27,Male,PhD,Chercheur,0.0,32900
+40,Male,Baccalauréat,Data Engineer,16.7,44600
+51,Male,Master's,Ingénieur Systèmes,25.1,83500
+38,Female,Master's,Ingénieur Systèmes,15.0,48400
+40,Female,Bachelor's,Conducteur de Projet,6.9,24700
+43,Male,Master's,Data Scientist,12.0,46500
+40,Male,Baccalauréat,Chef de Projet IT,9.4,25800
+27,Male,PhD,Pharmacien,0.0,32000
+34,Female,Bachelor's,DevOps Engineer,10.2,44400
+43,Male,PhD,Data Analyst,10.1,66200
+32,Male,Master's,Technicien de Maintenance,4.7,20100
+29,Male,Bachelor's,Analyste Financier,6.7,57800
+39,Male,Bachelor's,Account Manager,8.2,26700
+34,Male,Master's,Data Analyst,7.6,47100
+49,Male,Master's,ML Engineer,15.5,54000
+48,Male,PhD,ML Engineer,17.3,55800
+40,Female,Master's,Juriste,8.2,34000
+46,Female,Bachelor's,Développeur Software,10.5,29600
+50,Male,Baccalauréat,Chargé de Communication,22.0,39300
+34,Female,Master's,Data Scientist,7.6,38800
+33,Female,Bachelor's,Data Analyst,7.9,29900
+40,Female,Master's,Data Engineer,17.0,80600
+35,Male,Bachelor's,Développeur Software,11.9,37200
+46,Male,Bachelor's,Technicien de Maintenance,19.3,27900
+36,Male,Master's,Chef de Projet IT,11.6,56200
+39,Female,Bachelor's,Office Manager,16.3,28500
+48,Female,Master's,Assistant Administratif,14.9,40400
+32,Male,PhD,Responsable Marketing,3.5,43300
+27,Female,Bachelor's,Account Manager,5.0,22400
+24,Female,Master's,Consultant IT,0.7,28900
+28,Male,Master's,Enseignant,4.5,26500
+46,Female,Baccalauréat,Data Scientist,23.0,48000
+23,Female,Master's,Directeur Financier,0.0,53800
+32,Female,Bachelor's,Chargé de Communication,2.1,24400
+35,Male,Master's,Data Engineer,9.6,59100
+32,Male,Master's,Analyste Financier,5.3,52800
+43,Female,Bachelor's,Infirmier,15.4,28600
+32,Male,Baccalauréat,Architecte Cloud,11.2,86400
+51,Female,Bachelor's,Directeur Financier,11.7,69400
+43,Female,Bachelor's,Business Developer,10.8,33600
+25,Female,Master's,Analyste Financier,1.5,55900
+20,Female,Baccalauréat,Assistant Administratif,1.8,17764
+37,Male,Master's,Ingénieur Systèmes,8.4,69300
+38,Female,CAP/BEP,Office Manager,16.5,21900
+31,Male,CAP/BEP,Assistant Administratif,7.6,17764
+37,Female,Baccalauréat,Data Scientist,11.3,30900
+53,Male,Master's,Data Analyst,30.0,53700
+52,Male,Bachelor's,Responsable RH,27.8,50500
+29,Female,Bachelor's,Office Manager,3.7,22900
+27,Male,PhD,Chercheur,0.0,40400
+50,Male,Bachelor's,Contrôleur de Gestion,10.5,47300
+51,Male,Baccalauréat,Comptable,27.0,39600
+34,Male,Master's,Enseignant,6.1,30800
+43,Male,Bachelor's,Commercial,12.4,35300
+27,Female,Master's,Data Analyst,2.8,29600
+53,Male,Master's,Développeur Software,9.0,45200
+38,Female,Master's,Chargé de Communication,8.0,35300
+28,Female,PhD,ML Engineer,1.0,36200
+43,Male,Master's,Responsable Commercial,18.0,48900
+50,Female,PhD,DevOps Engineer,21.0,80400
+31,Female,Master's,Assistant Administratif,3.8,30400
+35,Male,Bachelor's,Assistant Administratif,4.3,17764
+53,Male,Master's,Data Analyst,28.2,55800
+47,Male,CAP/BEP,Contrôleur de Gestion,29.0,46900
+40,Female,Bachelor's,Assistant Administratif,15.7,27400
+41,Female,Bachelor's,Assistant Administratif,14.0,20900
+35,Female,Bachelor's,Comptable,11.1,23300
+35,Female,Bachelor's,Logisticien,4.4,17764
+36,Male,Master's,ML Engineer,13.0,55800
+37,Male,Bachelor's,Technicien de Maintenance,12.6,28400
+29,Male,PhD,Responsable Commercial,1.9,49200
+34,Female,Bachelor's,Office Manager,9.2,26700
+46,Female,Master's,Analyste Financier,15.3,61100
+27,Male,PhD,Chercheur,0.0,27400
+30,Male,Master's,Consultant IT,5.3,49200
+35,Female,Master's,Architecte Cloud,7.2,52800
+35,Male,Master's,Comptable,8.7,50600
+40,Female,PhD,Account Manager,4.2,29300
+60,Male,Master's,Logisticien,26.3,65300
+27,Female,PhD,Contrôleur de Gestion,0.0,33100
+37,Female,Master's,Ingénieur Systèmes,14.0,33500
+38,Male,Baccalauréat,Chargé de Communication,7.6,17764
+47,Female,Bachelor's,Logisticien,19.9,25400
+46,Male,Master's,Data Engineer,15.1,50100
+27,Male,PhD,Enseignant,0.0,22800
+36,Male,CAP/BEP,Account Manager,10.9,27500
+26,Female,Bachelor's,DevOps Engineer,1.3,43900
+33,Female,Baccalauréat,Trader,11.4,42600
+36,Male,CAP/BEP,Infirmier,17.7,31300
+29,Male,Bachelor's,Analyste Financier,4.4,55600
+40,Female,Master's,Chef de Projet IT,12.0,43400
+38,Female,Master's,Data Analyst,5.0,34900
+34,Female,Master's,Responsable RH,7.5,38200
+31,Female,Master's,Ingénieur Systèmes,7.6,34900
+47,Female,Master's,Responsable Commercial,24.0,68600
+19,Female,Baccalauréat,Comptable,0.6,19900
+23,Male,Master's,Juriste,0.0,27100
+41,Male,Master's,Architecte Cloud,15.8,86700
+47,Female,Baccalauréat,Business Developer,23.7,34000
+31,Male,Baccalauréat,Analyste Financier,10.0,40900
+33,Male,Master's,ML Engineer,8.2,39200
+39,Female,Master's,Data Engineer,12.1,44400
+48,Female,Master's,Chargé RH,20.0,37300
+29,Female,Master's,Consultant IT,3.0,48400
+49,Male,PhD,Logisticien,22.0,45200
+42,Male,Master's,Data Analyst,17.3,48600
+25,Male,Master's,Office Manager,2.0,27200
+49,Male,Master's,Responsable RH,24.1,51700
+47,Female,CAP/BEP,Commercial,22.6,17764
+33,Male,Master's,Data Analyst,8.7,43200
+36,Male,Bachelor's,Développeur Software,14.7,36600
+33,Male,Bachelor's,Account Manager,7.3,36300
+38,Female,CAP/BEP,Infirmier,11.8,17764
+48,Female,Master's,Directeur Financier,25.0,80300
+41,Female,Bachelor's,Responsable RH,10.9,35700
+40,Female,Bachelor's,Développeur Software,19.0,47800
+43,Male,CAP/BEP,Infirmier,20.5,21700
+27,Female,CAP/BEP,Logisticien,7.0,17764
+33,Female,PhD,Contrôleur de Gestion,3.8,49000
+32,Female,Master's,ML Engineer,5.6,64200
+40,Male,Master's,DevOps Engineer,12.1,46500
+36,Female,Baccalauréat,Comptable,14.5,25600
+37,Female,Bachelor's,Enseignant,13.2,19700
+36,Female,Master's,Développeur Software,6.7,30800
+50,Female,Bachelor's,Data Engineer,12.8,55200
+37,Female,Bachelor's,Consultant Finance,9.6,54800
+47,Female,Baccalauréat,Conducteur de Projet,28.5,41500
+36,Female,Master's,Data Engineer,11.6,31900
+39,Female,Master's,DevOps Engineer,11.1,48700
+50,Male,PhD,Architecte Cloud,20.8,110700
+44,Male,PhD,ML Engineer,7.7,52600
+45,Female,PhD,Data Scientist,10.7,45100
+38,Female,Master's,Commercial,13.6,30500
+31,Male,Master's,Architecte Cloud,5.4,61200
+34,Male,Baccalauréat,Chargé RH,10.9,26100
+36,Female,Bachelor's,Technicien de Maintenance,14.7,21600
+36,Female,Master's,Responsable RH,7.6,38800
+41,Female,Bachelor's,Chargé de Communication,20.0,39600
+31,Female,Master's,Consultant Finance,4.6,42700
+50,Male,PhD,Développeur Software,14.0,48100
+52,Male,CAP/BEP,Contrôleur de Gestion,20.1,34300
+31,Female,Bachelor's,Chargé de Communication,5.6,22300
+32,Male,PhD,Architecte Cloud,5.0,68700
+27,Female,PhD,Responsable RH,0.0,49100
+36,Male,Bachelor's,Comptable,6.3,27500
+44,Male,Bachelor's,Technicien de Maintenance,23.0,28100
+31,Male,Master's,Consultant Finance,7.0,65100
+30,Female,Master's,Responsable Commercial,5.1,36600
+26,Female,Baccalauréat,Comptable,7.0,25700
+35,Male,PhD,Consultant Finance,4.7,73100
+32,Male,Bachelor's,Développeur Software,4.0,34700
+46,Male,CAP/BEP,Ingénieur Systèmes,23.4,44700
+24,Male,Baccalauréat,Consultant Finance,5.6,47200
+50,Male,Master's,Chargé RH,16.6,44600
+33,Female,Master's,Développeur Software,8.9,67000
+44,Female,CAP/BEP,Juriste,19.4,24100
+38,Female,Baccalauréat,Contrôleur de Gestion,20.0,30000
+40,Male,Bachelor's,Juriste,17.7,50200
+44,Female,Master's,Data Analyst,12.2,40200
+39,Female,Bachelor's,Assistant Administratif,8.7,20500
+43,Male,Master's,Infirmier,12.8,33500
+32,Female,Master's,Consultant Finance,7.9,55300
+40,Male,Master's,Pharmacien,16.1,41800
+38,Female,Master's,Responsable Commercial,7.6,49300
+47,Male,Bachelor's,Technicien de Maintenance,16.8,21100
+23,Male,Master's,Infirmier,0.0,21000
+31,Male,Master's,Responsable Marketing,5.2,42500
+42,Female,Master's,Développeur Software,5.5,29200
+30,Male,Bachelor's,Logisticien,4.9,22100
+50,Male,CAP/BEP,Responsable Commercial,20.1,35200
+34,Female,CAP/BEP,Account Manager,13.0,34000
+36,Male,PhD,DevOps Engineer,6.1,64900
+47,Female,Bachelor's,Analyste Financier,26.0,59000
+43,Male,Bachelor's,Data Analyst,18.8,36400
+40,Male,Master's,Consultant IT,17.0,72300
+23,Male,Master's,Juriste,0.0,43800
+59,Female,Master's,Développeur Software,24.1,72100
+45,Male,Baccalauréat,Data Analyst,25.1,40600
+25,Male,Bachelor's,DevOps Engineer,2.3,41800
+39,Male,Bachelor's,Data Analyst,10.9,40000
+33,Male,Master's,Analyste Financier,6.1,39900
+31,Male,PhD,Data Engineer,3.7,55700
+39,Male,Master's,Juriste,12.9,59900
+31,Female,Baccalauréat,Développeur Software,13.0,27700
+28,Male,Baccalauréat,Technicien de Maintenance,3.5,17764
+44,Male,Bachelor's,Chargé RH,19.6,24800
+29,Male,Master's,ML Engineer,5.1,55500
+33,Female,PhD,Data Engineer,6.0,49900
+41,Female,Master's,Développeur Software,16.9,65200
+42,Female,Bachelor's,Account Manager,12.8,32800
+37,Female,Master's,Développeur Software,9.3,56800
+38,Female,Baccalauréat,Infirmier,19.8,24000
+57,Female,Master's,Juriste,33.5,51900
+40,Female,Baccalauréat,Infirmier,21.9,23100
+42,Male,Master's,Comptable,13.4,35100
+32,Female,Bachelor's,Technicien de Maintenance,7.3,25500
+33,Male,Bachelor's,Assistant Administratif,12.0,19400
+41,Female,Master's,Analyste Financier,4.2,33400
+54,Male,Bachelor's,Technicien de Maintenance,30.8,42700
+36,Male,Master's,Analyste Financier,11.0,64600
+31,Male,Bachelor's,Contrôleur de Gestion,8.3,28200
+47,Male,Master's,Chef de Projet IT,19.9,61700
+33,Female,Bachelor's,Logisticien,8.7,17764
+37,Male,Bachelor's,Technicien de Maintenance,8.9,17764
+38,Female,Bachelor's,Comptable,7.5,20200
+44,Female,Master's,Technicien de Maintenance,17.6,33800
+35,Female,CAP/BEP,Analyste Financier,6.2,39900
+36,Female,Master's,Consultant IT,7.0,41200
+41,Female,Master's,Ingénieur Systèmes,16.3,51600
+27,Male,PhD,Data Analyst,0.0,45800
+20,Female,Baccalauréat,Chargé RH,0.8,19100
+27,Female,Bachelor's,Conducteur de Projet,4.0,23800
+51,Female,Master's,Directeur Financier,20.7,74400
+46,Female,Master's,Data Engineer,23.0,51400
+43,Male,Master's,Comptable,13.2,31400
+46,Female,Master's,Data Analyst,10.9,44200
+44,Female,Master's,Data Analyst,20.6,48400
+28,Male,PhD,Responsable Commercial,0.7,52300
+43,Male,Bachelor's,Office Manager,15.8,48400
+25,Female,Master's,Trader,1.2,48300
+32,Male,Bachelor's,Data Scientist,9.4,44500
+39,Female,Master's,Data Analyst,11.9,37000
+38,Male,PhD,Responsable Marketing,11.0,59600
+31,Female,Baccalauréat,Conducteur de Projet,7.5,24400
+45,Female,Bachelor's,Infirmier,11.1,38600
+30,Female,Master's,Développeur Software,5.0,28900
+60,Male,Bachelor's,Assistant Administratif,33.7,47500
+31,Male,Baccalauréat,Responsable RH,6.1,25900
+23,Male,Master's,Responsable RH,0.0,37200
+39,Female,PhD,Data Analyst,7.5,31400
+40,Male,Master's,Comptable,9.9,32000
+23,Male,Master's,Développeur Software,0.0,42600
+40,Female,Bachelor's,Consultant IT,13.0,69600
+28,Male,Master's,Responsable RH,3.7,48200
+31,Male,PhD,DevOps Engineer,3.6,56100
+54,Male,Master's,Développeur Software,22.4,49200
+41,Female,Master's,Analyste Financier,11.1,70900
+40,Female,Baccalauréat,Chargé RH,22.0,30600
+52,Female,CAP/BEP,Comptable,22.2,30500
+45,Male,Master's,Architecte Cloud,17.9,73600
+24,Male,Bachelor's,Développeur Software,1.8,29700
+49,Female,Bachelor's,Comptable,15.4,25800
+34,Female,Baccalauréat,Account Manager,8.5,22000
+27,Female,Bachelor's,Comptable,5.2,28000
+43,Male,Master's,Data Scientist,5.2,46700
+52,Female,Master's,Commercial,23.5,50500
+31,Male,Master's,Consultant IT,8.0,69000
+44,Male,Bachelor's,Technicien de Maintenance,18.0,34400
+30,Male,Master's,Chargé de Communication,4.8,25800
+35,Female,CAP/BEP,Business Developer,16.9,25900
+36,Male,PhD,Data Engineer,9.0,58000
+47,Male,Master's,Développeur Software,18.4,39200
+49,Female,Bachelor's,Comptable,19.0,25700
+34,Male,Master's,Développeur Software,9.8,52600
+46,Male,Master's,Développeur Software,12.0,42800
+43,Female,Master's,Contrôleur de Gestion,16.1,53400
+30,Male,Master's,Comptable,2.6,21400
+38,Male,Bachelor's,Logisticien,8.8,25500
+43,Male,Bachelor's,Assistant Administratif,19.7,23500
+28,Male,CAP/BEP,Business Developer,7.1,28300
+33,Male,PhD,Analyste Financier,5.0,48200
+45,Female,CAP/BEP,Technicien de Maintenance,19.6,18600
+34,Male,Bachelor's,Consultant Finance,5.6,40100
+38,Male,PhD,Chef de Projet IT,8.3,66100
+32,Female,PhD,Consultant IT,3.8,31200
+42,Male,Baccalauréat,Chargé RH,17.8,30000
+27,Male,PhD,Ingénieur Systèmes,0.0,39100
+34,Female,Baccalauréat,Business Developer,4.6,20000
+36,Female,Master's,Contrôleur de Gestion,2.5,29300
+38,Male,Bachelor's,Chef de Projet IT,10.9,50500
+31,Male,Bachelor's,Office Manager,5.1,33000
+40,Female,Master's,Consultant Finance,7.0,46400
+25,Male,Master's,Juriste,2.0,34400
+47,Male,Bachelor's,Technicien de Maintenance,14.4,34100
+38,Female,PhD,Médecin,6.5,62000
+36,Male,CAP/BEP,Enseignant,18.0,24800
+38,Male,Bachelor's,Commercial,14.5,36200
+34,Female,Bachelor's,Consultant IT,12.3,30900
+48,Male,Baccalauréat,Directeur Financier,6.8,70500
+39,Female,CAP/BEP,Business Developer,8.7,25700
+27,Male,Master's,DevOps Engineer,2.8,46500
+43,Male,Bachelor's,Technicien de Maintenance,17.1,27900
+31,Male,PhD,Développeur Software,4.0,38100
+30,Male,Master's,Chef de Projet IT,4.1,45100
+40,Female,Master's,Data Analyst,17.0,46000
+28,Female,PhD,Data Analyst,0.5,35400
+33,Male,Bachelor's,Comptable,10.6,47100
+29,Female,Master's,Responsable Marketing,4.9,47300
+47,Male,Bachelor's,Data Scientist,18.5,57100
+32,Female,Bachelor's,Contrôleur de Gestion,9.7,54200
+34,Male,Baccalauréat,Business Developer,11.8,31100
+31,Male,Master's,Responsable RH,6.1,44200
+30,Female,Master's,Juriste,6.9,31800
+48,Male,CAP/BEP,Juriste,30.0,49300
+48,Male,Master's,ML Engineer,19.8,77500
+39,Male,Bachelor's,Data Scientist,14.8,56800
+36,Male,Bachelor's,Chargé RH,13.3,37200
+43,Female,Baccalauréat,Responsable Marketing,25.0,37800
+31,Male,Master's,Enseignant,5.7,31200
+29,Male,Master's,Consultant IT,4.9,57300
+41,Male,Master's,Consultant Finance,11.1,64300
+56,Female,Baccalauréat,Account Manager,18.9,32500
+21,Female,Bachelor's,Chargé de Communication,0.0,18700
+36,Female,Master's,Consultant Finance,9.6,36000
+35,Female,Master's,Chef de Projet IT,10.9,44600
+38,Male,Bachelor's,Conducteur de Projet,6.7,43200
+39,Male,Baccalauréat,Business Developer,18.6,63100
+26,Female,Bachelor's,Comptable,3.6,18300
+36,Male,Master's,Business Developer,10.8,37000
+32,Male,Baccalauréat,Technicien de Maintenance,5.5,21500
+27,Female,Bachelor's,Développeur Software,4.4,43200
+34,Female,Master's,Technicien de Maintenance,6.1,24100
+19,Male,CAP/BEP,Assistant Administratif,1.0,20800
+38,Male,Bachelor's,Commercial,8.4,31100
+41,Female,Master's,Médecin,14.2,79400
+34,Male,Master's,DevOps Engineer,11.0,62600
+35,Male,Master's,Data Scientist,2.3,49600
+47,Male,CAP/BEP,Juriste,19.7,40600
+26,Male,Master's,Trader,2.5,46100
+34,Male,Master's,Technicien de Maintenance,8.4,23900
+18,Female,Baccalauréat,Logisticien,0.0,17764
+33,Female,PhD,Consultant IT,5.4,32100
+31,Female,Baccalauréat,Responsable RH,13.0,30700
+44,Male,Bachelor's,Office Manager,12.3,25400
+27,Male,PhD,Médecin,0.0,81700
+37,Male,Bachelor's,Technicien de Maintenance,16.0,25900
+36,Male,Bachelor's,Office Manager,12.3,61100
+40,Female,Master's,Développeur Software,11.3,55700
+36,Female,Bachelor's,Infirmier,3.1,28200
+23,Female,Master's,Data Engineer,0.0,35600
+54,Male,PhD,Développeur Software,23.0,53800
+39,Male,CAP/BEP,Juriste,21.0,44000
+44,Male,Baccalauréat,Chef de Projet IT,26.0,39900
+41,Male,PhD,Commercial,6.4,27300
+21,Male,Bachelor's,Chargé de Communication,0.0,24000
+25,Male,Master's,Développeur Software,0.5,32600
+26,Male,Master's,DevOps Engineer,2.8,42600
+32,Male,PhD,Data Scientist,2.8,54700
+25,Female,Bachelor's,Data Analyst,4.0,20400
+18,Male,Baccalauréat,Commercial,0.0,27500
+25,Male,Bachelor's,Conducteur de Projet,2.5,19000
+27,Female,PhD,Chercheur,0.0,42700
+23,Male,Master's,Ingénieur Systèmes,0.0,41100
+36,Male,Bachelor's,Ingénieur Systèmes,1.2,31900
+36,Male,Bachelor's,Logisticien,11.1,30800
+43,Female,Bachelor's,Médecin,10.5,56300
+46,Female,Bachelor's,Technicien de Maintenance,9.1,28500
+38,Female,Bachelor's,Consultant IT,3.6,30600
+56,Male,Master's,Consultant Finance,28.9,78000
+32,Male,Bachelor's,Infirmier,10.7,22700
+44,Female,Master's,Data Analyst,12.7,39900
+30,Male,Bachelor's,Commercial,9.0,61600
+31,Female,Bachelor's,Chargé de Communication,7.9,28900
+44,Male,Bachelor's,Chercheur,5.7,33000
+47,Male,PhD,Responsable Commercial,19.7,115000
+30,Male,Bachelor's,Chargé RH,6.6,30900
+46,Male,Bachelor's,Enseignant,11.3,32500
+42,Male,Master's,DevOps Engineer,8.8,46800
+27,Male,PhD,Développeur Software,0.0,50100
+39,Male,Bachelor's,Logisticien,17.3,35300
+46,Female,Master's,Commercial,15.9,59100
+35,Male,PhD,Ingénieur Systèmes,6.0,45600
+31,Male,Master's,Data Scientist,2.4,51700
+45,Male,Bachelor's,Contrôleur de Gestion,8.3,47400
+35,Female,Bachelor's,Account Manager,14.0,35500
+25,Female,Bachelor's,Business Developer,2.1,31400
+46,Male,Master's,Ingénieur Systèmes,17.4,101300
+38,Female,Master's,Account Manager,13.2,34800
+27,Female,Bachelor's,Business Developer,2.9,28600
+53,Male,Bachelor's,Technicien de Maintenance,17.6,37200
+38,Female,Baccalauréat,Responsable RH,12.3,40000
+35,Male,Master's,Data Scientist,4.6,51200
+41,Male,Bachelor's,Conducteur de Projet,15.5,37100
+27,Male,Bachelor's,Technicien de Maintenance,4.4,27300
+39,Male,Master's,Développeur Software,8.9,40600
+42,Male,Bachelor's,Assistant Administratif,11.8,23100
+24,Female,Baccalauréat,Commercial,3.7,22900
+31,Male,Bachelor's,Enseignant,7.7,32100
+30,Female,Master's,Consultant Finance,4.7,66900
+47,Female,Master's,Chef de Projet IT,14.3,29700
+27,Female,PhD,Data Scientist,0.0,42100
+55,Female,Baccalauréat,Comptable,19.4,24000
+31,Male,Baccalauréat,Architecte Cloud,8.4,55700
+36,Male,CAP/BEP,Architecte Cloud,9.3,30700
+23,Male,Master's,Technicien de Maintenance,0.0,34000
+36,Female,Master's,Assistant Administratif,10.6,20600
+58,Female,Master's,Pharmacien,18.0,56400
+37,Female,Bachelor's,Comptable,8.9,32200
+46,Male,Bachelor's,Contrôleur de Gestion,21.7,30200
+35,Male,Baccalauréat,Chargé RH,10.9,20200
+26,Male,Baccalauréat,Logisticien,3.3,36000
+34,Male,Bachelor's,Commercial,9.7,45000
+33,Male,Bachelor's,Enseignant,10.1,20700
+35,Male,Master's,ML Engineer,12.0,71100
+39,Male,Bachelor's,Contrôleur de Gestion,16.8,55300
+40,Male,PhD,Data Analyst,8.3,57300
+45,Male,Bachelor's,Chargé RH,11.4,27600
+32,Female,Master's,Juriste,7.5,48100
+38,Female,Bachelor's,Ingénieur Systèmes,8.3,29400
+28,Female,Master's,Responsable RH,3.2,37200
+39,Male,PhD,Consultant IT,6.9,59500
+34,Male,Master's,Commercial,9.7,59200
+37,Female,Master's,Data Scientist,8.7,37300
+46,Male,PhD,Chercheur,17.9,58900
+44,Male,Master's,Chef de Projet IT,18.2,70700
+29,Male,Baccalauréat,Commercial,5.2,20700
+40,Female,Master's,Assistant Administratif,10.2,19100
+37,Female,Baccalauréat,Account Manager,13.8,45400
+36,Female,Master's,Chef de Projet IT,13.0,58800
+34,Male,PhD,Contrôleur de Gestion,7.0,64800
+33,Female,Master's,Chef de Projet IT,9.7,41400
+44,Male,Bachelor's,Responsable Marketing,14.3,42400
+46,Male,Master's,Data Engineer,19.7,51000
+25,Female,Bachelor's,Office Manager,3.5,23200
+23,Male,Master's,Ingénieur Systèmes,0.0,50800
+50,Male,Baccalauréat,Infirmier,32.0,24700
+40,Female,Bachelor's,ML Engineer,10.8,43900
+46,Male,PhD,Comptable,14.0,38400
+26,Male,Master's,Comptable,2.4,37800
+23,Female,Master's,Contrôleur de Gestion,0.0,29700
+30,Female,Master's,Analyste Financier,5.5,40900
+37,Female,Bachelor's,Business Developer,12.6,31400
+32,Female,Bachelor's,Logisticien,7.0,18200
+42,Male,CAP/BEP,Technicien de Maintenance,16.1,22600
+43,Male,Baccalauréat,Chargé de Communication,13.3,35100
+32,Male,Baccalauréat,Logisticien,2.0,18500
+42,Female,Bachelor's,Commercial,12.8,19400
+45,Male,Master's,Juriste,11.5,46800
+46,Male,Bachelor's,Technicien de Maintenance,16.2,23300
+27,Female,Master's,Responsable RH,3.8,40300
+32,Male,Master's,Responsable RH,5.7,36000
+38,Male,Master's,Développeur Software,9.8,85100
+43,Male,Master's,DevOps Engineer,16.1,67700
+44,Male,Bachelor's,Responsable RH,23.0,65700
+54,Female,Bachelor's,Directeur Financier,26.9,68600
+37,Male,Master's,Responsable Commercial,9.0,47400
+27,Female,PhD,Directeur Financier,0.0,84700
+26,Female,Bachelor's,Data Analyst,5.0,24300
+43,Female,Baccalauréat,Data Engineer,25.0,26600
+34,Female,CAP/BEP,Chargé RH,14.4,21200
+42,Female,Baccalauréat,Data Scientist,17.3,46800
+31,Female,Master's,Consultant Finance,7.2,42800
+23,Male,Master's,Ingénieur Systèmes,0.0,40700
+41,Female,Bachelor's,Chargé RH,17.0,22700
+31,Female,Baccalauréat,Commercial,9.1,23900
+35,Female,Bachelor's,Account Manager,14.0,40500
+43,Female,Bachelor's,Office Manager,18.3,29100
+57,Female,Bachelor's,Logisticien,22.2,22500
+32,Male,Master's,DevOps Engineer,6.6,50800
+52,Male,Master's,Chef de Projet IT,21.5,77400
+21,Female,Bachelor's,Data Engineer,0.0,23000
+22,Male,Bachelor's,Développeur Software,1.0,34500
+42,Male,Baccalauréat,Infirmier,17.2,25100
+44,Female,Baccalauréat,Trader,24.2,76100
+39,Female,Bachelor's,Logisticien,15.8,19600
+21,Male,Bachelor's,Data Scientist,0.0,30500
+51,Male,Master's,Data Analyst,22.7,41500
+34,Male,CAP/BEP,Chef de Projet IT,8.8,32000
+35,Male,Baccalauréat,Directeur Financier,6.3,51000
+29,Male,Bachelor's,Architecte Cloud,8.0,64800
+43,Male,Baccalauréat,Infirmier,24.0,31500
+26,Female,Baccalauréat,Technicien de Maintenance,8.0,19900
+34,Male,Master's,Enseignant,4.1,23400
+41,Male,Baccalauréat,Assistant Administratif,20.1,38300
+39,Female,CAP/BEP,Technicien de Maintenance,14.7,23900
+32,Female,Master's,Data Engineer,5.4,40300
+26,Male,Baccalauréat,Technicien de Maintenance,6.1,17764
+42,Male,PhD,Consultant IT,8.5,68700
+49,Female,Bachelor's,Consultant IT,25.9,40100
+48,Male,Master's,Technicien de Maintenance,17.2,28500
+37,Female,Bachelor's,Assistant Administratif,10.1,29600
+50,Female,Baccalauréat,Chercheur,25.0,29000
+40,Female,Master's,Enseignant,15.9,35400
+33,Male,Bachelor's,Chargé RH,11.8,30800
+33,Female,Bachelor's,Chargé RH,9.2,28200
+45,Male,PhD,Développeur Software,14.3,66300
+31,Male,Master's,Enseignant,3.1,21600
+29,Male,Bachelor's,Médecin,6.7,60200
+36,Male,Master's,Business Developer,5.1,43800
+45,Female,Master's,Contrôleur de Gestion,14.9,73500
+29,Female,Master's,Ingénieur Systèmes,6.0,39600
+28,Female,Bachelor's,Assistant Administratif,6.3,20800
+35,Female,PhD,Chercheur,5.1,45400
+44,Male,Master's,Data Scientist,13.2,79700
+23,Female,Baccalauréat,Chef de Projet IT,2.8,29300
+35,Male,Master's,Trader,11.9,77700
+40,Male,Bachelor's,Assistant Administratif,11.7,24100
+30,Female,Master's,Chef de Projet IT,1.8,34400
+33,Male,Master's,Enseignant,7.0,47700
+44,Female,Bachelor's,Responsable Commercial,13.5,42600
+30,Female,Baccalauréat,Chef de Projet IT,7.5,25600
+41,Male,Master's,Data Scientist,8.3,40400
+35,Female,Bachelor's,Data Analyst,6.1,48200
+60,Female,Bachelor's,Logisticien,19.6,26400
+53,Male,Bachelor's,Chef de Projet IT,23.3,58000
+30,Female,Bachelor's,Chargé de Communication,9.0,25900
+23,Female,Master's,Commercial,0.0,22100
+27,Male,PhD,Médecin,0.0,57000
+18,Female,Baccalauréat,Account Manager,0.0,19700
+24,Male,Master's,Data Engineer,1.0,44600
+40,Male,Bachelor's,Contrôleur de Gestion,10.2,36100
+31,Male,Master's,Logisticien,3.8,27000
+43,Male,Bachelor's,Commercial,18.7,29100
+21,Female,Bachelor's,Architecte Cloud,0.0,42600
+34,Female,Bachelor's,Ingénieur Systèmes,11.7,33100
+40,Female,Master's,Contrôleur de Gestion,9.9,41800
+28,Male,Baccalauréat,Chargé RH,7.2,21400
+45,Male,PhD,Office Manager,14.9,42600
+49,Female,Master's,Chargé RH,11.4,22300
+34,Female,Bachelor's,Comptable,11.4,20300
+52,Male,Master's,Architecte Cloud,16.7,129400
+48,Male,Bachelor's,Chercheur,20.8,45700
+33,Female,Bachelor's,Commercial,8.6,21200
+55,Male,Baccalauréat,Chef de Projet IT,36.1,64700
+31,Female,CAP/BEP,Consultant Finance,13.0,28600
+35,Male,Master's,Chercheur,6.9,41300
+46,Female,CAP/BEP,Assistant Administratif,16.6,25100
+44,Female,Bachelor's,DevOps Engineer,13.9,41400
+31,Female,Master's,ML Engineer,6.0,54000
+52,Female,Bachelor's,Business Developer,31.0,57800
+41,Male,Bachelor's,Conducteur de Projet,15.8,38200
+56,Male,PhD,Contrôleur de Gestion,10.5,55800
+52,Male,Baccalauréat,Chargé de Communication,34.0,28200
+52,Male,Master's,Développeur Software,28.7,64500
+47,Female,Master's,DevOps Engineer,15.7,62200
+42,Male,Master's,Business Developer,7.3,29600
+40,Female,Master's,DevOps Engineer,16.2,52400
+55,Female,CAP/BEP,Assistant Administratif,32.2,29800
+24,Male,Bachelor's,Data Analyst,2.6,39900
+25,Female,Master's,Ingénieur Systèmes,2.0,49700
+29,Female,CAP/BEP,Comptable,11.0,23200
+35,Male,Bachelor's,Chef de Projet IT,3.6,30500
+53,Male,Baccalauréat,Logisticien,26.7,25500
+62,Male,Master's,DevOps Engineer,27.5,66500
+26,Female,Bachelor's,Data Analyst,4.6,19000
+29,Female,Master's,Contrôleur de Gestion,4.5,25500
+36,Female,Master's,Responsable Commercial,12.9,46000
+33,Male,Master's,ML Engineer,7.1,64100
+32,Male,Master's,Contrôleur de Gestion,6.6,53500
+32,Female,Baccalauréat,Infirmier,8.2,23300
+23,Male,Bachelor's,Chargé RH,1.3,26100
+50,Female,Bachelor's,Assistant Administratif,16.2,30800
+23,Female,Master's,Développeur Software,0.0,26900
+42,Male,PhD,Chargé RH,6.4,33900
+34,Male,Master's,Responsable Commercial,9.6,57700
+48,Male,Bachelor's,Comptable,13.7,27600
+39,Male,Baccalauréat,Chargé de Communication,15.6,20400
+39,Female,Master's,Ingénieur Systèmes,11.6,66700
+37,Female,Master's,Enseignant,11.6,28800
+23,Female,Master's,Chef de Projet IT,0.0,56100
+25,Male,Master's,DevOps Engineer,2.0,49200
+27,Male,Bachelor's,Account Manager,2.0,52300
+26,Male,Bachelor's,Contrôleur de Gestion,3.6,39100
+40,Female,Bachelor's,Commercial,16.7,33100
+33,Male,Master's,Chargé de Communication,5.5,35800
+30,Male,Baccalauréat,Data Scientist,6.9,44000
+29,Female,Master's,Data Scientist,4.0,55000
+44,Female,CAP/BEP,Account Manager,26.0,48800
+38,Female,Master's,Office Manager,8.1,35600
+36,Male,PhD,Chercheur,5.2,42100
+45,Male,PhD,Chercheur,18.0,64000
+28,Female,Bachelor's,Chargé RH,4.9,30800
+37,Female,CAP/BEP,Responsable RH,9.7,32200
+45,Male,Bachelor's,Commercial,17.2,27300
+26,Male,Baccalauréat,DevOps Engineer,7.0,35700
+33,Male,Bachelor's,Chef de Projet IT,9.5,66400
+37,Male,Master's,Juriste,9.8,44900
+27,Female,Master's,DevOps Engineer,4.0,32100
+36,Female,CAP/BEP,Analyste Financier,9.9,28300
+48,Male,Bachelor's,Infirmier,21.9,34300
+43,Female,Bachelor's,Comptable,16.3,31000
+37,Female,CAP/BEP,Technicien de Maintenance,6.4,22800
+31,Male,Bachelor's,ML Engineer,8.3,39100
+29,Female,Master's,Responsable Commercial,4.5,56500
+40,Male,Bachelor's,Responsable Commercial,17.4,49600
+47,Male,Master's,Ingénieur Systèmes,21.3,56400
+55,Female,Master's,Développeur Software,19.9,54600
+43,Female,PhD,Data Analyst,12.9,50700
+42,Male,Baccalauréat,Développeur Software,19.7,47100
+27,Male,PhD,Analyste Financier,0.0,94800
+50,Male,Master's,Responsable Marketing,21.9,57300
+34,Male,Bachelor's,Commercial,11.4,34800
+35,Female,Master's,Responsable RH,4.1,40300
+37,Male,CAP/BEP,Responsable RH,12.6,33500
+25,Female,Bachelor's,Consultant IT,2.4,31800
+33,Male,Master's,Développeur Software,7.8,45700
+45,Female,Master's,Architecte Cloud,16.0,47200
+44,Male,Bachelor's,Technicien de Maintenance,14.1,31500
+28,Male,Master's,Développeur Software,2.4,34700
+32,Male,Master's,Data Scientist,3.8,43200
+28,Male,Master's,DevOps Engineer,4.0,47400
+26,Female,Master's,Chargé RH,3.0,33600
+38,Male,Master's,Technicien de Maintenance,13.7,49400
+32,Male,Bachelor's,Enseignant,7.2,27700
+38,Male,PhD,Responsable Marketing,2.4,34700
+23,Female,Master's,Juriste,0.0,33100
+36,Male,Bachelor's,Account Manager,12.9,41000
+53,Male,Bachelor's,Consultant IT,32.0,85000
+40,Male,Master's,Développeur Software,17.0,61900
+37,Female,Bachelor's,Technicien de Maintenance,8.7,21700
+56,Female,Bachelor's,Infirmier,18.3,28900
+34,Male,Master's,Développeur Software,2.8,39700
+50,Female,Baccalauréat,Technicien de Maintenance,32.0,27500
+41,Male,Bachelor's,Commercial,20.0,45100
+34,Male,Master's,Enseignant,10.8,22700
+41,Male,Master's,Responsable Commercial,6.1,49800
+38,Male,Bachelor's,Chargé RH,17.0,30900
+23,Male,Master's,Architecte Cloud,0.0,50600
+39,Female,Baccalauréat,Business Developer,13.4,31100
+28,Female,Master's,Développeur Software,4.5,40600
+35,Male,Bachelor's,Technicien de Maintenance,6.0,31700
+46,Male,Bachelor's,Chargé RH,19.4,27400
+26,Male,Baccalauréat,Commercial,7.4,24500
+30,Male,Bachelor's,Office Manager,5.7,37100
+32,Male,Master's,Analyste Financier,4.7,41100
+47,Female,Master's,Analyste Financier,19.9,46100
+44,Female,Master's,Data Analyst,10.6,54600
+50,Female,Baccalauréat,Chargé RH,10.2,21300
+39,Male,Master's,Ingénieur Systèmes,16.0,44600
+37,Male,Master's,Chargé RH,11.6,35900
+39,Female,Baccalauréat,Comptable,21.0,25000
+28,Male,Master's,Responsable Commercial,3.1,32700
+34,Male,Baccalauréat,Comptable,13.7,23600
+42,Female,Master's,Chef de Projet IT,10.3,65400
+32,Male,Baccalauréat,Account Manager,8.5,34700
+43,Female,Bachelor's,Office Manager,22.0,27700
+36,Male,Bachelor's,Commercial,12.6,45700
+40,Female,Bachelor's,Chef de Projet IT,8.1,39300
+42,Male,PhD,Business Developer,8.6,41900
+39,Male,Master's,Responsable Marketing,11.6,38000
+38,Female,Bachelor's,Chargé RH,14.9,25100
+62,Female,Master's,Architecte Cloud,32.5,71500
+34,Female,Bachelor's,Technicien de Maintenance,8.6,29400
+38,Male,Bachelor's,Account Manager,13.4,37900
+45,Male,Master's,Business Developer,22.0,39400
+28,Male,Master's,Juriste,4.3,46500
+29,Female,Master's,Analyste Financier,6.0,41800
+47,Male,Master's,Account Manager,11.9,58900
+57,Female,Master's,Responsable RH,24.9,52400
+39,Male,PhD,Médecin,6.5,82500
+43,Male,PhD,Analyste Financier,14.9,49900
+39,Male,Master's,Chercheur,5.1,40100
+50,Female,Baccalauréat,Data Engineer,17.3,51000
+39,Female,PhD,Responsable RH,7.6,38500
+46,Male,Master's,Consultant IT,21.3,86500
+37,Male,CAP/BEP,Infirmier,12.8,28400
+29,Female,Master's,Chargé RH,6.0,25500
+43,Female,Master's,Data Scientist,12.7,63800
+36,Male,Master's,Data Engineer,8.4,46600
+41,Female,Bachelor's,Office Manager,16.8,24800
+38,Male,Master's,Architecte Cloud,5.0,91100
+33,Female,Baccalauréat,Chargé RH,7.4,25200
+32,Female,Master's,Chef de Projet IT,9.0,78200
+32,Male,Bachelor's,Responsable Commercial,8.9,45700
+25,Female,Master's,Développeur Software,2.0,37900
+27,Male,PhD,Pharmacien,0.0,41700
+36,Female,Master's,DevOps Engineer,9.8,36400
+41,Male,Master's,Responsable RH,8.3,60800
+40,Male,Master's,Business Developer,12.9,44000
+35,Male,Bachelor's,Data Scientist,8.7,50800
+40,Male,CAP/BEP,Commercial,19.4,28300
+40,Female,CAP/BEP,Comptable,8.7,17764
+46,Male,Master's,Data Scientist,16.1,45100
+21,Male,Bachelor's,Assistant Administratif,0.0,21100
+49,Female,Bachelor's,Chef de Projet IT,27.0,62400
+25,Female,Master's,Technicien de Maintenance,1.9,18600
+38,Female,CAP/BEP,Assistant Administratif,15.8,21100
+32,Female,Master's,Data Scientist,9.0,40200
+40,Male,Master's,Développeur Software,13.4,71800
+38,Female,Bachelor's,Chef de Projet IT,13.4,50600
+21,Male,Bachelor's,Chef de Projet IT,0.0,38200
+40,Male,Bachelor's,Data Engineer,10.2,50400
+37,Female,Baccalauréat,Responsable Commercial,19.0,62300
+31,Male,Baccalauréat,Conducteur de Projet,13.0,42700
+45,Male,CAP/BEP,Comptable,19.1,37100
+35,Female,Master's,Responsable Marketing,11.4,34200
+25,Male,Master's,Data Analyst,1.2,58200
+21,Male,Bachelor's,Office Manager,0.0,29000
+31,Male,Master's,ML Engineer,4.8,52700
+35,Male,Master's,Consultant Finance,12.0,80000
+37,Male,PhD,Contrôleur de Gestion,7.4,40600
+46,Male,PhD,Data Scientist,17.0,67800
+29,Male,Master's,Développeur Software,3.7,38100
+39,Female,Master's,Data Scientist,8.0,54800
+40,Female,Master's,DevOps Engineer,9.9,48200
+32,Male,Master's,Responsable Commercial,4.9,61700
+50,Male,Bachelor's,Office Manager,23.6,37500
+21,Male,Bachelor's,Analyste Financier,0.0,42000
+47,Male,Master's,Data Scientist,17.3,86300
+23,Male,Master's,Commercial,0.0,19000
+58,Female,PhD,Assistant Administratif,19.8,26700
+30,Female,Bachelor's,Chargé RH,6.2,22200
+36,Female,Master's,Data Scientist,13.0,50000
+45,Female,PhD,Data Analyst,9.2,42400
+38,Female,PhD,DevOps Engineer,7.4,36600
+23,Female,Bachelor's,Responsable Commercial,1.6,29600
+41,Female,Master's,Chef de Projet IT,15.7,52800
+33,Male,Master's,Développeur Software,3.9,33800
+33,Female,PhD,Responsable Commercial,0.6,34600
+31,Female,Bachelor's,Comptable,7.0,20500
+48,Male,PhD,Juriste,13.1,85400
+27,Female,PhD,Responsable RH,0.0,26900
+44,Female,Master's,Contrôleur de Gestion,18.1,55800
+38,Female,Bachelor's,Enseignant,16.0,22300
+38,Male,Bachelor's,Account Manager,17.0,38000
+43,Female,Bachelor's,Développeur Software,8.3,34700
+40,Female,Bachelor's,Responsable Marketing,13.1,32800
+36,Female,Bachelor's,Assistant Administratif,6.4,25400
+35,Male,Bachelor's,Infirmier,10.8,29500
+38,Male,PhD,Chercheur,3.4,50100
+31,Female,Master's,Business Developer,8.0,37900
+36,Male,Master's,Account Manager,13.0,47300
+42,Female,Master's,Analyste Financier,13.8,45000
+39,Female,Bachelor's,Assistant Administratif,18.0,28400
+23,Male,Master's,ML Engineer,0.0,30700
+31,Male,Master's,Chef de Projet IT,7.2,54000
+40,Male,Bachelor's,DevOps Engineer,9.5,79500
+30,Female,Baccalauréat,Consultant IT,11.6,24100
+32,Female,Master's,Contrôleur de Gestion,5.8,32300
+45,Female,Master's,Juriste,22.0,61300
+23,Female,Master's,Commercial,0.0,22600
+45,Female,Baccalauréat,Enseignant,24.2,25500
+39,Male,Bachelor's,Assistant Administratif,9.6,26600
+36,Female,Bachelor's,Account Manager,13.6,33200
+50,Female,Master's,Développeur Software,8.3,42400
+36,Male,PhD,Data Engineer,6.0,66000
+53,Female,Master's,Assistant Administratif,29.7,29400
+39,Male,PhD,Enseignant,8.2,33400
+33,Female,Bachelor's,Comptable,8.1,23400
+24,Female,Bachelor's,Business Developer,1.8,30900
+25,Male,Bachelor's,Trader,2.8,62600
+45,Female,Baccalauréat,Chargé RH,21.5,28600
+27,Male,Baccalauréat,Account Manager,3.3,28000
+45,Female,Master's,Responsable RH,17.0,57400
+61,Female,Bachelor's,Analyste Financier,39.3,52800
+52,Female,PhD,Responsable RH,16.1,50900
+41,Female,Master's,Enseignant,13.7,31900
+50,Male,Master's,Chargé RH,5.4,27700
+57,Male,PhD,Data Analyst,12.9,45900
+33,Male,Master's,Chercheur,6.1,43800
+36,Female,Bachelor's,Consultant Finance,4.8,43700
+31,Female,Bachelor's,Assistant Administratif,7.0,24000
+39,Female,PhD,Data Analyst,8.2,40200
+35,Male,Master's,Responsable Commercial,5.2,79400
+39,Male,Master's,Analyste Financier,8.0,43600
+28,Male,Bachelor's,Data Scientist,6.2,48400
+26,Female,Bachelor's,Chargé RH,3.4,25800
+27,Female,Bachelor's,Account Manager,3.6,20900
+31,Male,Bachelor's,Développeur Software,8.8,57100
+35,Male,PhD,Pharmacien,5.7,64200
+28,Female,Baccalauréat,Commercial,8.3,28500
+29,Female,Master's,Data Analyst,5.3,46700
+31,Female,Master's,Responsable RH,8.0,29200
+47,Female,CAP/BEP,Chef de Projet IT,15.5,39400
+48,Male,Master's,Responsable Commercial,14.6,61700
+23,Female,Master's,Développeur Software,0.0,29900
+35,Male,CAP/BEP,Infirmier,10.3,26500
+43,Female,Master's,Juriste,20.0,44000
+41,Male,Bachelor's,Assistant Administratif,11.2,28800
+26,Male,Bachelor's,Chef de Projet IT,2.8,39800
+48,Male,Master's,Enseignant,17.6,34700
+46,Female,PhD,ML Engineer,14.6,59200
+31,Female,Master's,Responsable RH,7.3,33800
+36,Male,Bachelor's,Chargé de Communication,12.1,25500
+39,Male,CAP/BEP,Logisticien,21.0,26700
+35,Male,Bachelor's,Comptable,11.8,26300
+36,Female,Bachelor's,Technicien de Maintenance,8.4,32300
+34,Female,Master's,Data Analyst,10.5,34800
+50,Female,Master's,DevOps Engineer,21.9,48500
+33,Male,Bachelor's,Office Manager,10.2,26000
+60,Male,PhD,Enseignant,23.0,53000
+30,Female,CAP/BEP,DevOps Engineer,10.5,41800
+27,Female,PhD,Pharmacien,0.0,26700
+51,Male,Bachelor's,Enseignant,29.2,27700
+31,Male,CAP/BEP,Commercial,11.4,34100
+40,Male,Master's,Comptable,4.9,38000
+54,Male,Bachelor's,Développeur Software,30.3,62100
+34,Female,Master's,Chef de Projet IT,11.0,47200
+46,Male,Bachelor's,Comptable,19.3,28800
+41,Female,Baccalauréat,Data Scientist,20.6,54200
+43,Female,Master's,Office Manager,13.5,35400
+22,Male,Bachelor's,Analyste Financier,1.0,39900
+39,Female,PhD,Pharmacien,2.8,42000
+37,Male,Master's,Chargé RH,12.9,29700
+45,Female,Master's,Office Manager,19.0,29400
+53,Female,PhD,Chercheur,22.5,43800
+25,Male,Baccalauréat,Responsable Commercial,2.4,46600
+43,Male,Bachelor's,Conducteur de Projet,16.5,50500
+39,Female,PhD,Data Engineer,3.1,47600
+40,Male,Baccalauréat,Responsable RH,6.7,28200
+28,Female,PhD,Chargé de Communication,0.0,23500
+56,Female,Master's,Enseignant,18.7,27100
+42,Female,Master's,DevOps Engineer,16.9,61800
+33,Female,Bachelor's,Business Developer,9.4,21800
+54,Female,Bachelor's,Commercial,10.9,28700
+30,Male,Bachelor's,Account Manager,7.8,43700
+41,Male,Bachelor's,Chargé RH,16.7,39900
+43,Female,Baccalauréat,Comptable,16.4,25900
+27,Male,PhD,Ingénieur Systèmes,0.0,41200
+49,Male,Baccalauréat,Technicien de Maintenance,30.4,38800
+31,Male,Bachelor's,Business Developer,7.3,29400
+39,Female,Bachelor's,Infirmier,14.3,43200
+53,Female,Bachelor's,Logisticien,29.1,33600
+28,Male,Master's,Consultant IT,4.0,41000
+36,Female,PhD,Architecte Cloud,2.4,44300
+31,Male,Master's,Trader,7.0,57800
+34,Female,Master's,Responsable Commercial,4.1,29100
+39,Male,Master's,Data Analyst,12.0,63400
+50,Female,Baccalauréat,Technicien de Maintenance,21.1,24800
+47,Male,Master's,Développeur Software,17.7,44200
+26,Female,Master's,Pharmacien,2.0,21800
+53,Female,PhD,Responsable RH,21.2,52200
+45,Male,CAP/BEP,Technicien de Maintenance,17.9,19000
+42,Female,Master's,Consultant Finance,15.0,48400
+28,Female,Master's,Data Engineer,2.5,46300
+35,Female,Bachelor's,Architecte Cloud,10.9,38300
+43,Female,Master's,Responsable Commercial,6.1,36900
+25,Female,Baccalauréat,Commercial,4.6,22500
+21,Female,Bachelor's,Data Analyst,0.0,22600
+50,Male,PhD,Responsable RH,23.0,53700
+31,Female,PhD,Data Engineer,3.3,36000
+27,Male,Bachelor's,Infirmier,3.8,24700
+35,Female,Master's,Technicien de Maintenance,7.8,27700
+42,Female,Bachelor's,Responsable Marketing,21.0,55000
+32,Female,Bachelor's,Responsable RH,11.0,38700
+35,Female,Baccalauréat,Technicien de Maintenance,17.0,30900
+35,Female,Baccalauréat,Office Manager,7.2,32100
+37,Male,Master's,Consultant IT,10.4,59100
+45,Female,Master's,Consultant Finance,12.1,54600
+36,Female,Master's,ML Engineer,12.2,42200
+29,Male,Bachelor's,Comptable,5.3,19000
+39,Female,PhD,Chercheur,12.0,53300
+25,Female,Bachelor's,Responsable RH,2.8,29200
+44,Female,Bachelor's,Chargé de Communication,16.5,25400
+30,Female,Bachelor's,Analyste Financier,0.9,32200
+41,Male,PhD,Data Scientist,6.6,59600
+43,Female,Master's,Data Engineer,13.2,48300
+37,Male,Master's,Consultant Finance,10.2,50600
+53,Male,CAP/BEP,Infirmier,20.8,38300
+27,Female,PhD,DevOps Engineer,0.0,33600
+50,Male,Bachelor's,Chargé RH,17.4,32900
+56,Male,Bachelor's,Chargé RH,35.0,31400
+41,Male,Bachelor's,Conducteur de Projet,17.7,52900
+26,Male,Bachelor's,Enseignant,2.2,28000
+25,Male,Bachelor's,Chargé RH,4.0,30400
+51,Male,CAP/BEP,Commercial,26.8,36100
+35,Female,PhD,Commercial,4.1,32200
+37,Male,Master's,Directeur Financier,14.0,89800
+45,Female,Bachelor's,Technicien de Maintenance,20.4,37600
+27,Female,PhD,Médecin,0.0,75500
+29,Female,CAP/BEP,Architecte Cloud,7.9,30300
+33,Female,Master's,Data Analyst,8.1,39100
+41,Female,Baccalauréat,Chargé de Communication,15.1,33300
+44,Male,CAP/BEP,Chargé RH,24.8,28600
+38,Male,PhD,Consultant IT,11.0,66500
+49,Male,Master's,Chargé RH,15.7,45300
+32,Male,Bachelor's,Chef de Projet IT,10.5,32800
+37,Male,Baccalauréat,Data Analyst,19.0,44200
+34,Male,PhD,Chercheur,6.2,61700
+52,Male,Bachelor's,Office Manager,19.1,34500
+33,Female,CAP/BEP,Chargé RH,14.5,22900
+27,Female,PhD,Technicien de Maintenance,0.0,27200
+42,Male,Master's,Responsable RH,17.4,44900
+46,Female,PhD,Chef de Projet IT,7.3,41400
+31,Female,Master's,Chef de Projet IT,5.7,50400
+30,Male,Master's,Consultant IT,3.2,39500
+42,Female,Bachelor's,Ingénieur Systèmes,15.8,49000
+30,Male,Baccalauréat,Infirmier,12.0,22900
+31,Female,Baccalauréat,Commercial,8.3,39600
+43,Male,Bachelor's,Comptable,12.1,33000
+23,Female,Master's,Développeur Software,0.0,46000
+32,Male,Master's,Responsable Commercial,2.8,49100
+33,Male,Bachelor's,Infirmier,5.1,29100
+31,Female,PhD,Chercheur,3.2,29400
+35,Male,Bachelor's,Juriste,8.8,40600
+42,Female,Bachelor's,Infirmier,6.9,29200
+27,Female,PhD,Pharmacien,0.0,43500
+35,Male,Master's,Chef de Projet IT,6.0,35700
+41,Male,PhD,Conducteur de Projet,8.3,40300
+24,Female,Master's,Chef de Projet IT,0.9,41200
+43,Male,Bachelor's,Commercial,18.4,40800
+50,Female,Baccalauréat,Développeur Software,21.5,38300
+36,Male,Master's,Data Engineer,9.7,55200
+43,Female,Master's,Enseignant,12.9,32800
+48,Female,Master's,Data Engineer,14.8,48500
+50,Female,CAP/BEP,Data Analyst,32.0,24500
+55,Female,PhD,Consultant Finance,13.8,44200
+32,Male,CAP/BEP,Développeur Software,11.1,32700
+21,Male,Bachelor's,Chargé RH,0.0,20400
+30,Female,PhD,Data Analyst,3.0,42400
+26,Female,Bachelor's,Office Manager,4.1,26600
+44,Male,Baccalauréat,Chargé de Communication,16.5,28300
+30,Male,Master's,Chef de Projet IT,5.2,37800
+37,Male,Master's,Responsable Marketing,7.3,41100
+33,Male,PhD,Médecin,5.6,112700
+38,Female,Baccalauréat,Conducteur de Projet,13.3,32400
+33,Male,Bachelor's,Technicien de Maintenance,10.9,19600
+45,Male,Master's,Pharmacien,11.8,38000
+36,Female,Bachelor's,Consultant Finance,14.5,32500
+29,Male,CAP/BEP,ML Engineer,8.1,28200
+41,Male,Master's,Développeur Software,12.3,44400
+45,Male,Master's,Chef de Projet IT,16.1,61300
+44,Female,Master's,Logisticien,13.6,32200
+50,Female,PhD,Data Analyst,7.2,39000
+23,Male,Master's,Data Analyst,0.0,23300
+39,Male,Bachelor's,Account Manager,17.1,47600
+47,Male,Master's,Développeur Software,15.1,48200
+34,Male,PhD,Chargé RH,5.6,41300
+50,Male,Bachelor's,Account Manager,21.2,46700
+54,Female,Bachelor's,Technicien de Maintenance,31.0,21400
+34,Male,Master's,Logisticien,3.1,34600
+54,Male,Master's,Développeur Software,30.4,75200
+22,Male,Bachelor's,Comptable,0.9,20000
+45,Male,PhD,Développeur Software,17.8,54500
+32,Male,Bachelor's,Infirmier,3.7,26500
+50,Female,PhD,Architecte Cloud,15.9,62600
+36,Female,Bachelor's,Assistant Administratif,11.9,23200
+32,Male,Master's,Consultant Finance,5.8,68600
+40,Female,Bachelor's,Trader,18.2,52800
+34,Male,Bachelor's,Office Manager,7.8,24200
+36,Male,Bachelor's,Commercial,8.4,38900
+48,Female,Bachelor's,Analyste Financier,10.1,45000
+36,Female,Master's,Responsable RH,9.5,33000
+27,Male,PhD,Consultant IT,0.0,61300
+55,Male,Master's,Consultant Finance,13.1,67400
+33,Male,Master's,DevOps Engineer,8.1,45500
+21,Male,Bachelor's,Responsable Marketing,0.0,36100
+30,Male,PhD,Conducteur de Projet,3.0,35400
+51,Male,Baccalauréat,Ingénieur Systèmes,23.2,41300
+40,Male,Baccalauréat,Comptable,16.1,27500
+35,Female,Bachelor's,Logisticien,12.3,31800
+41,Male,Bachelor's,Business Developer,20.0,64000
+51,Male,PhD,Chargé de Communication,14.7,38700
+29,Female,Master's,Data Analyst,4.7,29100
+52,Male,Bachelor's,Chargé RH,29.0,42500
+46,Female,Master's,Chef de Projet IT,12.6,43700
+39,Male,Master's,Data Scientist,11.4,64000
+35,Female,Master's,Contrôleur de Gestion,6.5,29500
+38,Female,PhD,Consultant Finance,3.6,52400
+25,Female,Master's,Consultant Finance,0.9,36700
+37,Female,CAP/BEP,Développeur Software,15.6,29600
+35,Female,Master's,Développeur Software,9.3,41700
+36,Male,Master's,Conducteur de Projet,10.4,40900
+26,Male,Bachelor's,Responsable Marketing,4.9,35500
+43,Female,Baccalauréat,Chargé de Communication,12.0,18400
+43,Male,Bachelor's,Analyste Financier,19.0,73500
+39,Male,Master's,Ingénieur Systèmes,9.6,47900
+36,Male,PhD,Consultant IT,5.4,59600
+40,Female,CAP/BEP,Account Manager,22.0,33800
+25,Female,Master's,Contrôleur de Gestion,1.3,39900
+39,Female,Master's,Architecte Cloud,13.2,57500
+24,Female,Bachelor's,Directeur Financier,2.3,33000
+35,Female,PhD,Architecte Cloud,6.4,56900
+37,Male,Bachelor's,Business Developer,12.8,57200
+24,Female,Bachelor's,Infirmier,2.6,22700
+27,Male,PhD,Chef de Projet IT,0.0,52300
+33,Male,PhD,Consultant Finance,3.9,58700
+40,Male,Bachelor's,Commercial,15.3,32500
+21,Male,Bachelor's,ML Engineer,0.0,43500
+28,Male,Bachelor's,Conducteur de Projet,3.8,30900
+27,Male,Master's,Trader,3.8,56400
+34,Female,Master's,Développeur Software,7.3,36200
+33,Male,Master's,Data Analyst,4.3,44000
+30,Male,Bachelor's,Responsable Marketing,5.7,50000
+27,Female,Master's,Infirmier,4.0,28100
+38,Female,PhD,Développeur Software,4.9,28100
+32,Female,Bachelor's,Conducteur de Projet,8.2,25100
+27,Male,Master's,Data Scientist,3.3,45500
+54,Female,Bachelor's,DevOps Engineer,30.3,52600
+34,Female,Master's,Data Analyst,7.3,47100
+34,Female,PhD,Médecin,3.9,79900
+39,Female,Bachelor's,Commercial,16.8,34500
+44,Male,Master's,Enseignant,19.3,30900
+23,Male,Master's,Logisticien,0.0,17764
+39,Female,Master's,Data Engineer,12.5,41700
+38,Female,Master's,Développeur Software,11.2,34200
+53,Female,CAP/BEP,Assistant Administratif,9.3,17764
+36,Female,Bachelor's,Office Manager,15.0,28500
+42,Female,Bachelor's,Data Scientist,13.9,45400
+28,Male,Master's,Account Manager,2.7,41800
+53,Male,Bachelor's,Account Manager,25.2,60700
+53,Female,Bachelor's,Chargé RH,16.7,22000
+36,Male,Master's,Développeur Software,11.5,42300
+50,Male,Bachelor's,Consultant IT,22.1,83100
+47,Female,Bachelor's,Commercial,16.1,26200
+32,Male,Bachelor's,Data Analyst,8.2,31500
+45,Female,Bachelor's,Business Developer,12.4,25000
+28,Female,PhD,Analyste Financier,0.9,57500
+43,Female,Bachelor's,Account Manager,19.9,40700
+22,Female,Baccalauréat,Technicien de Maintenance,2.8,17764
+36,Male,Master's,Pharmacien,13.0,46900
+39,Female,Bachelor's,Commercial,12.1,27900
+40,Female,PhD,Data Analyst,11.0,46700
+31,Female,Bachelor's,Comptable,4.8,20200
+44,Female,Baccalauréat,Office Manager,19.6,36300
+35,Male,Baccalauréat,Office Manager,13.9,26700
+36,Male,CAP/BEP,Responsable RH,12.1,40000
+32,Male,PhD,Responsable RH,2.4,36700
+57,Female,Master's,Consultant Finance,30.2,56200
+34,Male,Master's,Responsable Commercial,5.2,40900
+56,Female,PhD,Chercheur,19.6,42500
+23,Male,Master's,Analyste Financier,0.0,48000
+56,Male,Bachelor's,Technicien de Maintenance,23.5,29500
+42,Male,CAP/BEP,Commercial,19.6,26000
+23,Male,Master's,Directeur Financier,0.0,68400
+40,Female,Master's,ML Engineer,8.4,54600
+35,Male,Master's,Data Scientist,6.5,38800
+36,Male,Master's,Consultant IT,11.5,64600
+36,Male,Bachelor's,Comptable,7.0,27800
+38,Male,Master's,Chef de Projet IT,14.3,64600
+32,Female,Master's,Consultant Finance,4.3,28300
+28,Female,Master's,Analyste Financier,3.0,54200
+55,Female,Master's,Enseignant,15.6,22900
+32,Male,Master's,Account Manager,9.0,41900
+43,Male,PhD,DevOps Engineer,15.5,57500
+34,Male,PhD,Contrôleur de Gestion,5.9,72700
+39,Female,Bachelor's,Chargé de Communication,16.8,29500
+38,Female,Bachelor's,Chargé RH,9.7,21600
+30,Male,Bachelor's,Technicien de Maintenance,2.5,29100
+23,Female,Master's,Assistant Administratif,0.0,25400
+29,Female,Bachelor's,Data Analyst,4.0,22200
+48,Female,Bachelor's,Analyste Financier,18.3,37700
+35,Female,PhD,Responsable Commercial,7.1,47400
+52,Female,Bachelor's,Data Analyst,18.8,34900
+35,Male,PhD,Chercheur,6.0,46000
+44,Female,Master's,Développeur Software,13.9,43300
+30,Male,PhD,Data Scientist,2.2,58500
+34,Female,Master's,Commercial,7.6,30900
+47,Female,Master's,Juriste,19.4,55000
+39,Female,Master's,Comptable,12.6,28700
+28,Male,Master's,Architecte Cloud,1.6,56000
+47,Male,Master's,Analyste Financier,19.6,72600
+28,Female,Bachelor's,Infirmier,5.8,23100
+38,Male,Bachelor's,Technicien de Maintenance,10.3,30800
+37,Female,Bachelor's,Consultant IT,12.3,56000
+47,Male,PhD,Chercheur,13.2,56200
+46,Female,Master's,Consultant Finance,18.8,50700
+39,Female,Bachelor's,Office Manager,12.7,21800
+36,Male,Bachelor's,Responsable RH,9.5,33200
+45,Male,Master's,Développeur Software,22.0,52100
+55,Male,Bachelor's,Analyste Financier,13.0,49900
+34,Male,Baccalauréat,Logisticien,12.0,21200
+53,Male,Bachelor's,Data Scientist,27.0,53200
+31,Male,Master's,Consultant Finance,5.4,55800
+30,Male,Master's,Trader,6.4,67900
+59,Female,Master's,Chercheur,33.4,49200
+40,Female,Master's,Data Analyst,7.3,22800
+44,Female,Master's,Chargé RH,11.1,21100
+38,Female,CAP/BEP,Office Manager,8.4,19600
+48,Female,Master's,Data Analyst,19.1,29200
+62,Female,CAP/BEP,Développeur Software,36.3,47800
+38,Female,PhD,Consultant Finance,7.9,48000
+21,Female,Bachelor's,Chercheur,0.0,23300
+40,Male,PhD,Assistant Administratif,9.9,29400
+49,Male,Bachelor's,Responsable Commercial,18.6,63700
+34,Male,Master's,Chef de Projet IT,7.4,65600
+40,Male,Bachelor's,Commercial,8.6,30200
+31,Male,Master's,Ingénieur Systèmes,4.3,42300
+48,Female,Master's,Développeur Software,11.3,46400
+33,Male,Master's,Data Scientist,5.1,72700
+31,Female,Master's,DevOps Engineer,8.0,36700
+35,Male,Master's,Comptable,11.2,36400
+30,Male,Master's,Data Engineer,7.0,38900
+51,Female,PhD,Analyste Financier,24.0,44800
+38,Male,Baccalauréat,Assistant Administratif,20.0,25900
+27,Female,Master's,Enseignant,4.0,34500
+28,Female,Master's,Data Analyst,2.3,27500
+51,Female,PhD,Contrôleur de Gestion,14.5,40000
+37,Female,PhD,Responsable RH,6.8,30700
+38,Female,Bachelor's,Analyste Financier,1.7,36600
+28,Male,CAP/BEP,Juriste,5.3,21700
+40,Female,Master's,DevOps Engineer,11.2,62900
+30,Female,CAP/BEP,Chef de Projet IT,12.0,41300
+33,Male,Bachelor's,Data Analyst,12.0,43100
+27,Female,Master's,Développeur Software,2.2,30600
+33,Male,CAP/BEP,Data Analyst,3.5,30700
+30,Female,Bachelor's,Enseignant,6.3,22800
+42,Female,Baccalauréat,Technicien de Maintenance,21.9,22800
+31,Female,Baccalauréat,Business Developer,8.5,25900
+48,Female,Master's,Chargé RH,14.3,20700
+30,Female,Master's,Account Manager,6.2,43300
+42,Female,Baccalauréat,Infirmier,24.0,25100
+33,Female,CAP/BEP,Infirmier,7.1,23500
+35,Male,PhD,Analyste Financier,3.1,39500
+31,Female,Master's,Ingénieur Systèmes,8.0,35800
+55,Male,PhD,Business Developer,22.2,74400
+53,Male,Bachelor's,Développeur Software,19.9,61100
+50,Male,Master's,Chef de Projet IT,20.9,70600
+23,Female,Bachelor's,Technicien de Maintenance,2.0,17764
+47,Female,Baccalauréat,Chargé RH,22.0,27200
+27,Male,PhD,Data Analyst,0.0,27500
+33,Male,Master's,Responsable RH,9.1,45200
+48,Male,Bachelor's,Commercial,20.4,39000
+34,Male,Baccalauréat,Chargé de Communication,16.0,27200
+48,Female,Baccalauréat,Contrôleur de Gestion,10.6,22300
+38,Female,Master's,Chef de Projet IT,13.3,44500
+29,Male,Master's,Office Manager,4.9,37800
+34,Female,CAP/BEP,Consultant IT,6.3,29000
+36,Male,Bachelor's,Chargé RH,6.1,34800
+46,Male,Master's,Chef de Projet IT,17.3,58700
+35,Male,Baccalauréat,Account Manager,12.1,23900
+21,Male,Bachelor's,Infirmier,0.0,31400
+57,Female,Bachelor's,Infirmier,18.3,17764
+49,Female,Master's,Juriste,26.0,66100
+56,Female,Bachelor's,Commercial,35.0,29600
+31,Female,Baccalauréat,Développeur Software,11.7,31200
+43,Female,PhD,Pharmacien,10.4,41200
+45,Male,Bachelor's,Logisticien,15.8,33300
+51,Male,Master's,Infirmier,20.5,44900
+32,Female,Master's,Consultant IT,6.5,45900
+29,Male,PhD,Data Analyst,1.1,40700
+29,Female,Bachelor's,Account Manager,5.6,29000
+36,Male,Master's,ML Engineer,8.7,79200
+52,Male,Baccalauréat,DevOps Engineer,22.7,48400
+40,Female,Master's,Développeur Software,11.9,36500
+34,Female,PhD,Chercheur,4.7,31000
+48,Male,PhD,DevOps Engineer,19.3,69400
+40,Male,Bachelor's,Chef de Projet IT,8.2,40300
+31,Female,CAP/BEP,Assistant Administratif,9.3,18200
+31,Female,Master's,Data Analyst,6.8,40800
+36,Female,PhD,Responsable Marketing,7.8,49900
+25,Male,CAP/BEP,Conducteur de Projet,3.7,27100
+28,Male,Master's,Data Analyst,4.5,52800
+38,Female,PhD,Pharmacien,9.1,57100
+29,Male,Master's,ML Engineer,3.0,42200
+37,Female,Bachelor's,Directeur Financier,5.5,55500
+51,Male,PhD,Chef de Projet IT,8.8,48600
+28,Female,Master's,Data Scientist,3.3,45800
+32,Male,Bachelor's,Infirmier,8.8,23900
+34,Female,Baccalauréat,Assistant Administratif,16.0,23400
+38,Male,Master's,Data Engineer,14.3,46300
+46,Female,PhD,DevOps Engineer,18.7,67000
+47,Female,Bachelor's,Assistant Administratif,10.8,19900
+41,Male,Master's,Contrôleur de Gestion,13.5,81200
+40,Male,Bachelor's,Data Engineer,16.1,56600
+41,Female,Master's,Business Developer,12.2,49500
+34,Female,PhD,Data Engineer,4.2,57200
+34,Female,Master's,Contrôleur de Gestion,9.2,42800
+44,Female,Master's,Enseignant,18.0,31700
+32,Female,Baccalauréat,Développeur Software,8.8,21400
+38,Male,Baccalauréat,Enseignant,15.3,33100
+33,Male,Master's,Assistant Administratif,5.6,24600
+47,Female,Bachelor's,Chercheur,4.6,25400
+42,Female,Master's,Juriste,6.9,30500
+39,Male,Master's,Analyste Financier,12.3,43300
+30,Female,Bachelor's,Data Scientist,4.5,31400
+26,Male,Baccalauréat,Data Engineer,6.4,37700
+51,Male,PhD,Chercheur,14.2,51500
+36,Female,Bachelor's,Office Manager,13.3,31200
+45,Male,Master's,Infirmier,12.2,38300
+41,Male,Master's,Consultant IT,7.5,67200
+51,Male,Bachelor's,Enseignant,24.3,34900
+41,Male,CAP/BEP,ML Engineer,11.3,34500
+27,Female,Bachelor's,Data Analyst,6.0,22300
+34,Female,Bachelor's,Infirmier,12.8,17764
+37,Female,Master's,Account Manager,10.6,39100
+48,Male,Master's,Développeur Software,25.0,65600
+36,Female,Master's,Développeur Software,5.5,41600
+42,Female,Bachelor's,Chargé RH,21.0,34900
+28,Female,Master's,Responsable Commercial,2.4,44000
+26,Female,Master's,Chef de Projet IT,2.4,30700
+27,Female,Baccalauréat,Responsable RH,9.0,36600
+40,Male,Bachelor's,Account Manager,10.4,37500
+28,Male,Bachelor's,Assistant Administratif,6.8,25200
+41,Male,Bachelor's,Comptable,20.0,57900
+37,Female,Bachelor's,Commercial,11.1,27400
+47,Male,Master's,Développeur Software,18.9,52600
+44,Male,Master's,Contrôleur de Gestion,13.3,67200
+34,Female,Master's,Data Scientist,9.8,46400
+34,Female,Master's,Data Engineer,10.0,32300
+27,Male,Bachelor's,Logisticien,6.0,33500
+42,Female,Baccalauréat,Data Engineer,14.2,32400
+42,Female,Master's,Enseignant,15.7,37400
+43,Male,Baccalauréat,Chercheur,15.9,31100
+37,Male,Bachelor's,Office Manager,12.5,60800
+40,Male,CAP/BEP,Contrôleur de Gestion,13.0,33000
+51,Male,Master's,Développeur Software,17.7,71000
+39,Male,Master's,Chargé de Communication,11.2,33700
+42,Male,Bachelor's,Chargé de Communication,18.7,33000
+33,Male,Master's,Contrôleur de Gestion,4.9,39900
+46,Female,Bachelor's,Office Manager,18.9,41600
+31,Female,Bachelor's,Assistant Administratif,8.9,26000
+30,Female,Master's,Data Scientist,5.8,67400
+32,Male,Bachelor's,ML Engineer,6.2,61600
+32,Male,Bachelor's,Assistant Administratif,8.8,35100
+23,Male,Master's,Conducteur de Projet,0.0,28100
+21,Male,Bachelor's,Logisticien,0.0,20200
+36,Male,Master's,Développeur Software,6.3,37800
+45,Female,PhD,Assistant Administratif,11.5,36800
+41,Female,Master's,Data Analyst,15.7,49700
+27,Male,Master's,Chargé de Communication,3.8,32300
+41,Female,Bachelor's,Consultant IT,15.9,35900
+38,Male,CAP/BEP,DevOps Engineer,20.0,43000
+33,Male,Master's,Data Analyst,7.3,54700
+42,Male,Bachelor's,Assistant Administratif,20.9,46400
+38,Female,Bachelor's,Account Manager,14.6,32900
+38,Male,Bachelor's,Business Developer,10.2,36500
+26,Male,Master's,Responsable Commercial,3.0,40100
+45,Male,Bachelor's,Infirmier,16.1,36800
+42,Male,Bachelor's,Enseignant,15.0,22500
+31,Male,Master's,Data Engineer,7.1,58400
+42,Female,Baccalauréat,Comptable,4.7,19300
+33,Female,CAP/BEP,Chargé RH,10.5,17764
+31,Female,PhD,Pharmacien,4.0,25200
+33,Male,Bachelor's,Assistant Administratif,8.7,25100
+35,Male,Bachelor's,Technicien de Maintenance,9.0,24500
+50,Female,Master's,Office Manager,17.5,35900
+23,Female,Master's,Contrôleur de Gestion,0.0,40300
+51,Male,CAP/BEP,Conducteur de Projet,23.3,27400
+46,Male,PhD,Médecin,6.7,66100
+49,Female,Master's,Responsable RH,26.0,45500
+32,Male,Master's,Business Developer,3.5,59600
+37,Female,Master's,Data Analyst,7.9,28600
+33,Male,Master's,Conducteur de Projet,10.0,44500
+27,Male,Bachelor's,Infirmier,4.4,22900
+32,Female,Bachelor's,Assistant Administratif,10.8,23400
+31,Female,Master's,Data Engineer,8.0,40200
+42,Female,Master's,Data Engineer,15.4,60100
+42,Female,Master's,Responsable Commercial,17.5,70700
+37,Female,Master's,Chef de Projet IT,14.0,36500
+23,Male,Master's,Enseignant,0.0,21900
+43,Female,Master's,Enseignant,10.2,23400
+42,Female,Bachelor's,Chargé RH,21.0,36200
+40,Female,Master's,Responsable Marketing,15.7,34000
+35,Female,Master's,Analyste Financier,12.0,65100
+41,Male,PhD,Chef de Projet IT,11.6,48500
+56,Male,Bachelor's,Analyste Financier,30.8,81200
+43,Male,Master's,Data Engineer,11.4,60500
+39,Male,Master's,Data Scientist,10.5,71500
+34,Female,Bachelor's,Technicien de Maintenance,10.7,18800
+26,Female,Bachelor's,DevOps Engineer,3.1,58700
+27,Male,PhD,Chercheur,0.0,35300
+40,Male,Master's,Data Analyst,5.1,34400
+26,Female,Bachelor's,Consultant Finance,2.8,40300
+42,Male,PhD,Analyste Financier,15.0,64000
+35,Male,Master's,Enseignant,12.0,22400
+39,Female,Baccalauréat,Comptable,8.6,29500
+46,Male,Master's,Contrôleur de Gestion,17.5,67000
+37,Male,Master's,Responsable RH,13.5,58100
+48,Female,CAP/BEP,Architecte Cloud,21.2,36600
+30,Female,Bachelor's,Business Developer,6.6,18700
+42,Male,Master's,Consultant Finance,11.8,55100
+23,Female,Master's,Account Manager,0.0,28700
+26,Male,Bachelor's,Contrôleur de Gestion,5.0,25400
+31,Male,Master's,Data Scientist,3.1,73000
+48,Female,Master's,Consultant Finance,2.6,60400
+31,Male,Bachelor's,Assistant Administratif,8.4,21500
+43,Male,Master's,Chef de Projet IT,17.2,62400
+46,Male,Master's,Chargé RH,20.8,53000
+48,Male,Master's,Contrôleur de Gestion,19.6,49900
+38,Male,Bachelor's,Commercial,11.2,29900
+50,Female,Master's,Développeur Software,15.3,42500
+41,Male,Bachelor's,Technicien de Maintenance,8.5,30700
+34,Male,CAP/BEP,Assistant Administratif,16.0,22700
+28,Male,CAP/BEP,Développeur Software,6.7,35300
+40,Female,Bachelor's,Assistant Administratif,6.8,17764
+50,Male,Master's,Data Engineer,14.8,66800
+27,Female,PhD,Chercheur,0.0,25400
+62,Male,Baccalauréat,Assistant Administratif,32.8,38800
+25,Male,Master's,Responsable RH,1.4,32500
+22,Male,CAP/BEP,Conducteur de Projet,1.0,18400
+52,Female,Master's,Responsable Marketing,25.2,59500
+42,Male,Bachelor's,Chargé RH,16.6,42000
+53,Female,Bachelor's,Assistant Administratif,12.5,17764
+53,Male,Baccalauréat,Développeur Software,35.0,67200
+35,Female,Master's,Architecte Cloud,12.0,71300
+24,Male,Master's,Infirmier,0.9,34700
+27,Male,Baccalauréat,Développeur Software,8.1,38800
+31,Female,Bachelor's,Data Analyst,5.4,21500
+37,Female,Bachelor's,Data Analyst,12.7,35100
+27,Female,Bachelor's,Responsable Commercial,5.5,38300
+47,Male,PhD,Data Engineer,8.6,73700
+39,Female,CAP/BEP,Technicien de Maintenance,18.5,17764
+34,Male,PhD,Médecin,5.1,105400
+19,Male,Baccalauréat,Comptable,0.3,23500
+53,Male,PhD,Data Analyst,17.6,45400
+34,Female,CAP/BEP,Assistant Administratif,10.7,17900
+35,Female,PhD,ML Engineer,5.9,45400
+52,Male,Baccalauréat,Ingénieur Systèmes,16.9,34900
+35,Female,Bachelor's,Chef de Projet IT,10.9,30000
+51,Male,Master's,Juriste,9.9,52400
+31,Male,CAP/BEP,Commercial,9.2,30500
+53,Male,Baccalauréat,Enseignant,12.2,29300
+43,Female,CAP/BEP,Enseignant,15.3,27700
+26,Male,Master's,Data Scientist,2.4,47800
+34,Male,Bachelor's,Infirmier,10.1,23300
+53,Female,Bachelor's,Chargé de Communication,18.1,36200
+45,Female,Baccalauréat,Technicien de Maintenance,22.2,23300
+24,Male,Baccalauréat,Commercial,5.1,29200
+30,Male,Bachelor's,Assistant Administratif,5.5,24500
+40,Male,Bachelor's,Responsable Marketing,11.8,41300
+30,Male,Master's,Ingénieur Systèmes,5.1,49600
+30,Male,CAP/BEP,Contrôleur de Gestion,12.0,34100
+29,Male,CAP/BEP,Logisticien,6.0,24700
+57,Male,Master's,Chercheur,29.5,45200
+43,Male,Bachelor's,Office Manager,19.3,47600
+48,Male,Master's,Data Analyst,18.7,44300
+34,Female,PhD,Médecin,3.6,74400
+18,Female,Baccalauréat,Assistant Administratif,0.0,17764
+43,Male,Bachelor's,Conducteur de Projet,15.7,43200
+25,Female,Master's,Architecte Cloud,1.5,54000
+42,Female,Bachelor's,Responsable Marketing,20.5,45300
+29,Female,Bachelor's,Assistant Administratif,4.8,19600
+49,Male,Master's,Data Scientist,14.6,36900
+53,Female,Bachelor's,Commercial,6.5,29100
+47,Female,PhD,Responsable Commercial,12.4,47900
+43,Male,PhD,Responsable Marketing,7.0,48900
+32,Female,Master's,Chef de Projet IT,6.9,37100
+44,Female,Bachelor's,Data Scientist,12.6,50700
+40,Female,PhD,Data Analyst,5.1,32200
+40,Female,Bachelor's,Technicien de Maintenance,19.0,22600
+45,Male,Master's,Responsable Commercial,18.4,51700
+57,Female,CAP/BEP,Consultant Finance,26.6,56800
+27,Female,PhD,Directeur Financier,0.0,63000
+51,Male,Baccalauréat,Chargé RH,31.3,36900
+33,Female,Bachelor's,Infirmier,10.0,20100
+33,Female,Master's,Chef de Projet IT,9.1,45300
+55,Female,Master's,Responsable RH,25.2,54700
+45,Male,PhD,Développeur Software,9.4,38700
+34,Female,Bachelor's,Account Manager,11.4,30200
+25,Female,Bachelor's,Chargé RH,1.9,23000
+32,Female,Bachelor's,Technicien de Maintenance,8.3,24000
+34,Male,Bachelor's,Logisticien,13.0,29100
+23,Male,Master's,Contrôleur de Gestion,0.0,33400
+25,Male,Master's,Responsable RH,1.4,47100
+25,Female,Master's,Développeur Software,1.0,39300
+42,Male,Master's,Consultant Finance,19.0,60100
+26,Female,Bachelor's,Account Manager,4.1,36300
+35,Female,Master's,Chargé de Communication,7.0,21200
+48,Male,Bachelor's,Comptable,16.9,29800
+42,Male,Bachelor's,Technicien de Maintenance,17.8,23200
+40,Male,Master's,Consultant IT,14.3,48400
+39,Male,CAP/BEP,Trader,20.6,70900
+40,Female,Master's,Analyste Financier,9.8,44100
+42,Female,Master's,Enseignant,19.0,22100
+45,Female,Master's,Data Analyst,21.5,48800
+36,Female,Bachelor's,DevOps Engineer,9.1,29700
+30,Male,Bachelor's,Responsable Marketing,5.0,29400
+47,Male,Master's,Assistant Administratif,18.3,37200
+43,Female,Bachelor's,Assistant Administratif,19.6,20300
+29,Male,Baccalauréat,Comptable,6.3,33100
+34,Male,Master's,Responsable Commercial,6.4,61600
+38,Female,Master's,Développeur Software,12.2,34800
+42,Female,Master's,Responsable Marketing,19.0,41500
+42,Female,PhD,Responsable RH,4.6,49100
+23,Female,Master's,Responsable Marketing,0.0,30200
+30,Male,PhD,Assistant Administratif,3.0,24900
+21,Female,Bachelor's,Infirmier,0.0,17764
+33,Male,Master's,Technicien de Maintenance,8.3,27300
+39,Male,Baccalauréat,Account Manager,14.9,26600
+51,Female,Master's,Data Engineer,14.4,46700
+51,Male,Baccalauréat,Consultant Finance,30.8,57900
+46,Male,Master's,Comptable,13.8,46800
+40,Male,Baccalauréat,Technicien de Maintenance,14.9,29500
+48,Female,Master's,Data Analyst,18.4,47700
+34,Male,Bachelor's,Consultant IT,9.1,29000
+30,Female,Master's,Data Analyst,5.2,43300
+54,Male,CAP/BEP,Chargé RH,24.6,32700
+39,Male,PhD,Responsable Marketing,2.4,50300
+52,Female,Master's,Ingénieur Systèmes,16.3,49200
+37,Female,Bachelor's,Business Developer,9.6,24300
+27,Male,PhD,Chercheur,0.0,37700
+42,Female,Bachelor's,Data Analyst,9.9,23100
+40,Female,Bachelor's,Responsable RH,12.8,41100
+27,Male,Baccalauréat,Juriste,8.1,32600
+40,Female,Master's,Chef de Projet IT,11.8,35700
+32,Female,Baccalauréat,Chargé de Communication,6.3,17764
+29,Male,Bachelor's,Comptable,5.5,25200
+30,Female,Master's,Data Analyst,7.0,38200
+41,Male,Bachelor's,Data Analyst,20.0,35300
+39,Male,Baccalauréat,Comptable,13.7,23100
+37,Female,Master's,Responsable Marketing,13.0,46300
+34,Female,Bachelor's,Technicien de Maintenance,9.0,27300
+42,Male,Master's,ML Engineer,9.4,58100
+34,Male,PhD,Consultant IT,5.0,40800
+34,Male,CAP/BEP,Comptable,14.5,26100
+23,Male,Master's,Analyste Financier,0.0,39100
+44,Male,Bachelor's,Commercial,16.7,45500
+52,Female,Master's,Directeur Financier,15.0,63500
+35,Female,Bachelor's,Architecte Cloud,9.3,42700
+44,Male,PhD,Chef de Projet IT,14.8,63000
+42,Female,Master's,Architecte Cloud,16.2,60500
+34,Male,Bachelor's,Enseignant,11.8,26700
+34,Male,CAP/BEP,Enseignant,11.2,18500
+43,Male,PhD,Pharmacien,6.0,47200
+52,Female,Master's,Chef de Projet IT,20.6,50500
+43,Male,Bachelor's,DevOps Engineer,19.3,49200
+23,Female,Bachelor's,Comptable,1.7,22700
+43,Male,Bachelor's,Office Manager,17.5,37800
+49,Male,PhD,Responsable Commercial,15.2,73900
+41,Male,PhD,Pharmacien,14.0,62100
+38,Female,Master's,Trader,12.4,67900
+36,Male,Master's,Responsable Commercial,5.0,33700
+39,Female,Master's,Data Analyst,6.5,35900
+50,Male,Baccalauréat,Commercial,21.2,43500
+27,Female,PhD,Architecte Cloud,0.0,65400
+41,Male,Master's,Analyste Financier,18.0,80000
+51,Female,Master's,Chercheur,22.5,73500
+31,Female,Master's,Business Developer,8.0,33500
+34,Male,Bachelor's,Responsable RH,7.5,34500
+37,Female,Bachelor's,Développeur Software,10.9,33800
+23,Male,Baccalauréat,Architecte Cloud,4.0,47500
+37,Female,PhD,Pharmacien,7.5,37100
+27,Male,PhD,Enseignant,0.0,30900
+35,Female,Master's,Data Analyst,3.3,24300
+36,Male,PhD,Ingénieur Systèmes,7.5,58100
+39,Male,Baccalauréat,Commercial,4.2,24200
+39,Female,PhD,Chercheur,8.9,22000
+36,Male,PhD,Juriste,4.5,40300
+45,Female,Master's,Responsable Marketing,14.4,70200
+23,Male,Master's,Consultant IT,0.0,37200
+24,Male,Master's,Analyste Financier,1.0,47000
+34,Female,Bachelor's,Conducteur de Projet,9.8,24800
+22,Male,Baccalauréat,Comptable,2.5,18900
+45,Male,PhD,Chercheur,18.0,57300
+35,Female,Bachelor's,Conducteur de Projet,10.4,36600
+47,Male,Baccalauréat,Business Developer,13.7,20000
+41,Female,Master's,Ingénieur Systèmes,10.3,47500
+32,Female,Master's,Responsable RH,6.5,32300
+53,Male,Master's,Responsable Commercial,19.3,52400
+23,Female,Master's,Développeur Software,0.0,31100
+36,Male,Master's,Ingénieur Systèmes,8.4,47800
+27,Female,PhD,Responsable Marketing,0.0,36600
+50,Female,Bachelor's,Commercial,16.3,39800
+26,Female,Bachelor's,Développeur Software,3.7,34700
+42,Female,Bachelor's,Chargé de Communication,10.1,23100
+42,Female,Master's,Data Scientist,11.5,40400
+57,Male,PhD,Chef de Projet IT,21.8,58600
+23,Male,Master's,Ingénieur Systèmes,0.0,29800
+38,Male,PhD,Consultant Finance,4.5,50100
+40,Male,PhD,Directeur Financier,9.8,101200
+39,Female,Master's,Développeur Software,11.9,41900
+46,Female,Master's,Responsable RH,20.8,48000
+28,Male,CAP/BEP,Responsable RH,7.6,30300
+21,Female,CAP/BEP,Conducteur de Projet,2.8,17764
+37,Female,Bachelor's,Infirmier,10.9,21700
+33,Male,Master's,Data Analyst,10.0,41800
+39,Male,PhD,Analyste Financier,6.8,70100
+27,Male,Baccalauréat,Développeur Software,9.0,27700
+33,Male,Bachelor's,Consultant Finance,1.8,43900
+47,Female,Master's,Responsable Marketing,16.6,38800
+48,Female,PhD,Contrôleur de Gestion,9.0,52000
+51,Male,Master's,Chargé RH,24.6,36800
+55,Male,Master's,Chef de Projet IT,24.7,59600
+45,Male,Master's,Directeur Financier,18.8,119700
+29,Male,Bachelor's,Commercial,8.0,26100
+48,Male,CAP/BEP,Commercial,19.7,38400
+42,Male,Master's,Chef de Projet IT,10.0,52000
+31,Female,Master's,Développeur Software,3.6,28200
+35,Male,Baccalauréat,Chargé de Communication,10.0,17764
+20,Female,Baccalauréat,Responsable Marketing,0.9,24900
+23,Male,Bachelor's,Conducteur de Projet,1.0,19400
+34,Female,Master's,Data Engineer,9.5,39300
+23,Male,Master's,Chef de Projet IT,0.0,62500
+27,Female,PhD,Contrôleur de Gestion,0.0,33800
+39,Female,Master's,Développeur Software,15.9,40700
+24,Male,Baccalauréat,Commercial,5.7,34800
+48,Male,Master's,Juriste,20.4,83100
+40,Male,Master's,Analyste Financier,12.3,48500
+36,Female,Master's,Développeur Software,10.6,54000
+45,Male,CAP/BEP,Consultant Finance,24.4,83300
+29,Female,Bachelor's,Conducteur de Projet,4.8,25100
+55,Female,Bachelor's,Conducteur de Projet,24.8,49400
+33,Male,PhD,Responsable RH,3.3,32100
+55,Male,Master's,Responsable Marketing,17.3,57000
+52,Female,Master's,Juriste,16.5,78800
+18,Male,Baccalauréat,Conducteur de Projet,0.0,17900
+49,Male,Master's,Développeur Software,20.6,59400
+42,Male,Bachelor's,Comptable,21.0,37900
+41,Female,CAP/BEP,Office Manager,4.1,17764
+45,Male,Bachelor's,Chargé de Communication,14.7,34800
+34,Male,Bachelor's,Technicien de Maintenance,6.9,24300
+62,Male,Master's,Technicien de Maintenance,32.3,41400
+32,Female,PhD,Pharmacien,3.1,41000
+43,Male,Master's,Ingénieur Systèmes,20.0,46800
+39,Male,Master's,Data Scientist,13.7,58700
+49,Male,Master's,Chef de Projet IT,26.0,61400
+43,Female,Bachelor's,Responsable Marketing,21.3,62200
+52,Male,PhD,Data Analyst,20.8,59000
+45,Female,Bachelor's,Account Manager,17.2,36700
+23,Male,Master's,Chef de Projet IT,0.0,57900
+39,Female,Master's,Account Manager,16.0,54000
+49,Female,PhD,Chercheur,16.7,54000
+39,Female,PhD,Responsable Marketing,4.7,40400
+26,Male,Master's,Développeur Software,2.5,52900
+47,Male,Master's,Assistant Administratif,24.0,54100
+45,Female,Master's,Chef de Projet IT,12.0,64300
+44,Male,Bachelor's,Comptable,17.9,27400
+18,Female,CAP/BEP,Assistant Administratif,0.0,17764
+33,Female,PhD,Pharmacien,4.4,33600
+38,Female,Bachelor's,ML Engineer,15.7,53700
+43,Female,PhD,Enseignant,11.2,30700
+48,Male,Master's,Commercial,8.0,33000
+39,Male,Master's,Analyste Financier,6.4,49700
+57,Male,Master's,Data Analyst,33.5,83700
+53,Male,Bachelor's,Responsable Commercial,29.5,73000
+47,Female,Bachelor's,Account Manager,22.1,30700
+39,Female,CAP/BEP,Enseignant,15.4,17764
+21,Female,Bachelor's,DevOps Engineer,0.0,29900
+44,Male,Master's,Chef de Projet IT,16.5,64800
+24,Male,Bachelor's,Consultant Finance,1.9,55500
+21,Female,Bachelor's,Account Manager,0.0,19300
+35,Female,Master's,Chef de Projet IT,8.7,57500
+30,Male,Master's,Data Analyst,4.3,49600
+42,Male,Bachelor's,Logisticien,15.9,30300
+29,Female,Bachelor's,Assistant Administratif,6.6,20100
+36,Female,Master's,Chercheur,9.1,27600
+36,Male,Baccalauréat,Développeur Software,8.0,37000
+37,Male,Master's,Contrôleur de Gestion,9.0,47600
+35,Female,PhD,Pharmacien,4.7,40100
+27,Male,PhD,Logisticien,0.0,38900
+42,Female,Bachelor's,Account Manager,19.4,43900
+43,Female,Bachelor's,Office Manager,20.5,34400
+40,Female,PhD,Chef de Projet IT,7.3,50900
+43,Female,Bachelor's,Infirmier,14.3,25800
+24,Female,Bachelor's,Analyste Financier,1.5,43900
+44,Male,Master's,ML Engineer,16.6,43500
+29,Male,Bachelor's,Technicien de Maintenance,6.2,25300
+35,Male,Bachelor's,Account Manager,4.3,31000
+26,Male,Master's,Infirmier,2.9,19700
+40,Male,Bachelor's,Infirmier,19.0,38100
+45,Male,Master's,Data Analyst,16.5,50200
+38,Male,Bachelor's,Data Engineer,10.4,54100
+44,Female,Baccalauréat,Responsable Commercial,12.4,58000
+34,Female,Bachelor's,Logisticien,12.1,18800
+34,Female,Baccalauréat,Comptable,8.0,22300
+39,Female,Bachelor's,Juriste,16.4,36800
+40,Female,PhD,Analyste Financier,7.7,56100
+31,Male,Bachelor's,Technicien de Maintenance,4.7,25300
+39,Female,Master's,Juriste,10.8,46800
+28,Female,Bachelor's,Chargé de Communication,7.0,19900
+23,Male,Master's,Data Analyst,0.0,27700
+27,Male,Master's,Responsable Marketing,3.1,52200
+25,Female,Baccalauréat,Business Developer,6.0,26600
+46,Female,Master's,Commercial,22.0,59400
+30,Male,Bachelor's,Infirmier,8.0,26700
+49,Male,PhD,Assistant Administratif,18.3,45300
+56,Female,Bachelor's,Commercial,31.1,38600
+33,Male,Master's,Logisticien,3.6,19800
+38,Male,Master's,Business Developer,11.4,36200
+33,Female,Master's,Développeur Software,6.1,30400
+38,Male,Master's,ML Engineer,7.7,64800
+30,Male,Master's,Responsable Commercial,4.7,30600
+32,Female,Master's,Account Manager,7.3,38100
+40,Male,Baccalauréat,Chargé RH,20.7,30700
+50,Male,PhD,Chercheur,18.1,54000
+44,Female,Master's,Consultant Finance,18.5,51900
+38,Male,Master's,Business Developer,8.1,40400
+43,Female,CAP/BEP,Trader,20.9,52600
+50,Male,Bachelor's,Assistant Administratif,23.0,40500
+45,Male,Bachelor's,Chargé RH,16.0,33100
+48,Male,Master's,DevOps Engineer,17.9,49500
+33,Male,Bachelor's,Chargé RH,9.6,20200
+38,Female,Bachelor's,Chargé RH,4.6,24800
+32,Female,Master's,Analyste Financier,7.9,71600
+51,Male,PhD,Pharmacien,20.3,54200
+43,Female,PhD,Data Engineer,5.8,50200
+60,Female,Master's,Contrôleur de Gestion,26.4,38900
+38,Female,Master's,Data Scientist,9.2,34600
+44,Male,Bachelor's,Responsable Marketing,23.0,41400
+46,Male,Master's,Data Scientist,19.9,98700
+30,Female,Bachelor's,Assistant Administratif,7.1,26800
+24,Male,Bachelor's,ML Engineer,1.7,48700
+27,Male,Baccalauréat,Comptable,7.7,21100
+42,Male,Bachelor's,Chargé de Communication,15.0,40000
+48,Female,Master's,Chef de Projet IT,14.3,67300
+34,Female,Master's,Chef de Projet IT,11.0,60100
+47,Male,PhD,Développeur Software,18.0,71600
+29,Male,Bachelor's,Commercial,5.7,23800
+21,Female,Bachelor's,Développeur Software,0.0,31200
+37,Male,Master's,Développeur Software,10.8,44700
+53,Male,Master's,Data Analyst,11.8,48000
+34,Male,Master's,Commercial,6.6,34200
+29,Male,Master's,DevOps Engineer,4.4,58100
+28,Male,CAP/BEP,Chargé RH,6.5,18700
+35,Female,Bachelor's,Assistant Administratif,9.9,28200
+23,Male,Master's,Ingénieur Systèmes,0.0,47300
+46,Female,Baccalauréat,Commercial,21.5,24900
+27,Female,PhD,Analyste Financier,0.0,47600
+52,Male,Master's,Chef de Projet IT,27.0,61700
+31,Female,Baccalauréat,Infirmier,8.9,23500
+37,Female,Bachelor's,Account Manager,14.2,27600
+53,Female,Baccalauréat,Infirmier,28.5,31300
+46,Female,Master's,Juriste,16.2,47000
+37,Female,Bachelor's,Business Developer,12.2,34700
+29,Male,Bachelor's,Infirmier,5.4,28500
+42,Female,Master's,Chef de Projet IT,10.1,63200
+44,Female,CAP/BEP,Comptable,26.0,27900
+38,Male,Master's,Business Developer,11.3,60600
+39,Male,Baccalauréat,Data Scientist,14.0,38000
+45,Female,Bachelor's,Account Manager,10.5,41200
+32,Female,Master's,Architecte Cloud,5.6,44500
+31,Female,PhD,Data Engineer,3.9,43300
+37,Male,Master's,Data Scientist,7.6,48200
+50,Male,Master's,Responsable RH,14.3,66000
+38,Female,Baccalauréat,Technicien de Maintenance,12.6,21100
+56,Female,Bachelor's,Office Manager,31.8,41300
+21,Male,Bachelor's,Assistant Administratif,0.0,19900
+18,Male,Baccalauréat,Chargé de Communication,0.0,21000
+28,Female,PhD,Ingénieur Systèmes,0.3,35400
+37,Male,Baccalauréat,Responsable Commercial,17.3,42100
+62,Male,Master's,Contrôleur de Gestion,33.0,94600
+54,Male,Master's,Data Engineer,27.0,57800
+31,Female,Master's,Contrôleur de Gestion,6.4,45400
+42,Male,Bachelor's,Business Developer,13.9,40100
+45,Female,Master's,Data Engineer,17.5,49800
+43,Female,Bachelor's,Business Developer,17.8,28600
+43,Female,Master's,Ingénieur Systèmes,8.2,33800
+39,Female,Bachelor's,Infirmier,8.4,38600
+30,Female,Master's,Développeur Software,7.0,25100
+34,Male,Master's,DevOps Engineer,10.3,52000
+21,Male,Bachelor's,Account Manager,0.0,37700
+41,Female,Bachelor's,Consultant Finance,9.8,49400
+49,Female,Master's,Développeur Software,16.5,42500
+45,Male,PhD,Développeur Software,15.0,71300
+35,Male,Master's,Data Analyst,8.5,37700
+42,Male,Bachelor's,Juriste,13.8,59800
+57,Male,Baccalauréat,Chercheur,19.5,27800
+43,Male,Master's,Responsable Commercial,12.8,60200
+58,Female,Bachelor's,Trader,22.5,75300
+29,Female,Master's,Chef de Projet IT,4.1,35300
+31,Male,Master's,Responsable RH,4.8,24600
+50,Female,Baccalauréat,Chef de Projet IT,20.6,40600
+18,Male,Baccalauréat,Conducteur de Projet,0.0,28400
+30,Female,Bachelor's,Conducteur de Projet,6.3,41300
+30,Female,Bachelor's,Chargé RH,5.5,21400
+46,Female,CAP/BEP,Chargé RH,14.5,17764
+46,Male,Master's,Contrôleur de Gestion,13.5,44700
+51,Female,Master's,Analyste Financier,21.0,72700
+41,Male,Bachelor's,Technicien de Maintenance,10.6,28200
+45,Male,CAP/BEP,Chargé RH,18.0,30600
+27,Male,Bachelor's,Chargé RH,6.0,26800
+33,Female,Master's,Chercheur,4.5,36000
+55,Male,PhD,Data Analyst,24.7,56800
+41,Male,Master's,Data Analyst,15.3,40200
+33,Female,Bachelor's,Infirmier,12.0,28500
+23,Male,Master's,Responsable RH,0.0,47500
+39,Male,Baccalauréat,Assistant Administratif,21.0,33300
+37,Male,Bachelor's,Account Manager,10.8,52200
+27,Male,Bachelor's,Infirmier,4.0,23100
+39,Male,Bachelor's,Account Manager,7.4,47300
+30,Female,Baccalauréat,Assistant Administratif,10.2,17764
+53,Female,Bachelor's,Infirmier,25.4,39500
+27,Male,Master's,Commercial,4.0,38800
+39,Male,Master's,Consultant IT,14.0,69000
+46,Male,PhD,Développeur Software,14.0,53700
+38,Female,Master's,Architecte Cloud,11.4,78300
+59,Female,Bachelor's,Infirmier,28.6,38600
+47,Female,Bachelor's,Technicien de Maintenance,23.8,35400
+42,Female,CAP/BEP,Assistant Administratif,22.1,24500
+44,Male,Bachelor's,Responsable Commercial,18.2,39600
+51,Male,PhD,Data Analyst,20.0,77300
+41,Male,PhD,Enseignant,13.4,37300
+43,Female,Master's,Ingénieur Systèmes,15.6,30000
+28,Male,Master's,Chef de Projet IT,3.8,72700
+39,Male,PhD,Data Scientist,6.6,55400
+31,Male,Bachelor's,Consultant Finance,3.4,36700
+34,Male,Master's,Data Analyst,7.4,44900
+23,Male,Master's,Chargé de Communication,0.0,39400
+39,Male,Master's,Contrôleur de Gestion,2.3,48600
+35,Male,Bachelor's,Enseignant,12.4,24000
+29,Female,Master's,Data Analyst,5.9,46100
+33,Male,Master's,Enseignant,5.2,34500
+43,Female,Bachelor's,Commercial,18.8,33800
+47,Female,Baccalauréat,Comptable,13.9,19800
+32,Male,Bachelor's,Commercial,7.1,26800
+27,Male,PhD,Chercheur,0.0,55500
+32,Female,Bachelor's,Business Developer,11.0,34500
+31,Male,Master's,Responsable Commercial,7.4,55400
+33,Male,Bachelor's,Commercial,9.0,27300
+35,Male,Master's,Commercial,9.4,46100
+41,Female,Bachelor's,Responsable Marketing,8.8,28400
+35,Male,Master's,Responsable Commercial,8.0,41600
+46,Male,Bachelor's,Data Scientist,11.0,40000
+39,Male,Bachelor's,Développeur Software,11.0,35900
+23,Male,Bachelor's,Business Developer,1.1,31800
+30,Female,Master's,Responsable Marketing,5.1,33000
+48,Male,Master's,Consultant Finance,24.7,72300
+34,Male,PhD,Responsable Commercial,4.7,61500
+36,Female,PhD,Data Analyst,6.8,24300
+33,Female,Master's,Assistant Administratif,7.6,27400
+39,Male,Bachelor's,Juriste,12.5,48900
+29,Female,Master's,Responsable Commercial,2.5,31500
+30,Male,Bachelor's,Technicien de Maintenance,7.5,31700
+45,Male,Bachelor's,Chef de Projet IT,8.7,45300
+29,Male,Bachelor's,Business Developer,2.3,26900
+50,Female,Master's,Analyste Financier,18.6,70200
+42,Female,Bachelor's,Account Manager,13.6,29100
+25,Male,Bachelor's,Contrôleur de Gestion,4.0,30200
+46,Female,Bachelor's,Technicien de Maintenance,15.4,31600
+53,Female,Baccalauréat,Technicien de Maintenance,32.6,29700
+35,Female,Master's,Responsable RH,8.7,34800
+28,Female,Baccalauréat,Logisticien,7.0,17764
+40,Female,CAP/BEP,Chargé de Communication,22.0,21300
+34,Female,PhD,Data Analyst,6.5,42300
+43,Female,PhD,Technicien de Maintenance,9.8,30300
+28,Male,Master's,Data Analyst,4.4,29700
+49,Male,Bachelor's,Responsable RH,10.2,39000
+45,Male,PhD,ML Engineer,9.2,52200
+39,Female,Master's,Développeur Software,7.3,33500
+28,Female,Bachelor's,Commercial,5.0,20300
+29,Male,Master's,Responsable RH,4.5,40500
+45,Female,Bachelor's,Infirmier,16.5,20600
+40,Female,Master's,Trader,14.1,53400
+47,Male,Master's,DevOps Engineer,16.6,101100
+28,Female,PhD,Contrôleur de Gestion,1.0,51500
+30,Male,Bachelor's,Business Developer,6.6,25900
+34,Female,PhD,Enseignant,6.8,20300
+33,Female,Baccalauréat,Ingénieur Systèmes,4.2,31400
+56,Male,Bachelor's,Chef de Projet IT,26.9,54000
+26,Female,Master's,Ingénieur Systèmes,2.2,43200
+59,Male,Master's,Business Developer,25.7,58100
+38,Male,Master's,Assistant Administratif,14.7,34900
+43,Male,Master's,Commercial,19.7,36900
+44,Male,Master's,Enseignant,20.8,34100
+42,Female,Master's,ML Engineer,10.2,41200
+32,Female,Master's,DevOps Engineer,7.2,40900
+31,Male,Master's,Responsable Commercial,6.8,45700
+29,Female,Master's,Responsable Marketing,2.7,35500
+34,Female,Master's,DevOps Engineer,8.8,56000
+50,Female,Master's,Développeur Software,16.5,54600
+52,Male,Bachelor's,Responsable RH,31.0,63300
+41,Male,Baccalauréat,Account Manager,17.7,48300
+34,Female,Master's,Consultant IT,11.0,51400
+48,Male,Master's,Responsable Marketing,15.8,50100
+27,Female,Master's,ML Engineer,2.1,50900
+42,Female,PhD,Consultant Finance,15.0,63600
+48,Male,Master's,Data Engineer,17.2,70700
+33,Female,Bachelor's,Technicien de Maintenance,9.9,19400
+31,Male,Bachelor's,Data Engineer,8.2,47400
+23,Male,Master's,Responsable Commercial,0.0,44900
+46,Male,Master's,Architecte Cloud,14.5,71100
+49,Female,Bachelor's,Chargé RH,19.2,30100
+40,Female,CAP/BEP,Analyste Financier,15.1,32800
+40,Female,PhD,Contrôleur de Gestion,12.2,59800
+36,Male,Baccalauréat,Assistant Administratif,15.9,31400
+28,Female,CAP/BEP,Conducteur de Projet,6.2,21700
+31,Male,Bachelor's,Consultant IT,8.7,47800
+34,Male,CAP/BEP,Commercial,6.1,24300
+45,Female,Master's,Consultant Finance,18.2,71000
+30,Female,Bachelor's,Comptable,7.8,27900
+40,Female,Baccalauréat,Office Manager,13.7,21500
+55,Female,PhD,Technicien de Maintenance,11.6,30300
+49,Male,Master's,Commercial,19.0,32300
+42,Female,PhD,Chargé de Communication,14.7,34000
+32,Male,Baccalauréat,Contrôleur de Gestion,8.9,31100
+51,Female,Master's,Enseignant,25.5,39100
+43,Female,Master's,Enseignant,12.8,31800
+55,Female,PhD,Chef de Projet IT,25.4,77200
+36,Male,Bachelor's,Conducteur de Projet,7.1,30700
+23,Female,Bachelor's,Logisticien,1.2,17764
+36,Male,Master's,Chef de Projet IT,6.9,63200
+53,Male,PhD,Data Engineer,11.7,71100
+34,Male,Master's,Responsable RH,3.3,28900
+29,Male,Bachelor's,Commercial,6.1,25900
+37,Female,PhD,Chercheur,6.6,39700
+50,Male,Master's,Chef de Projet IT,25.5,86400
+31,Female,PhD,Contrôleur de Gestion,2.8,50400
+25,Female,CAP/BEP,Contrôleur de Gestion,7.0,38400
+42,Male,Master's,Chef de Projet IT,14.8,84700
+37,Female,Master's,Data Engineer,12.1,49900
+40,Male,Bachelor's,Comptable,16.4,34500
+41,Male,Bachelor's,Chargé de Communication,18.8,28000
+25,Male,Baccalauréat,Chargé RH,7.0,27100
+40,Female,Master's,Responsable Commercial,15.4,58400
+49,Female,Master's,Data Engineer,26.0,57300
+48,Male,Master's,Data Engineer,18.5,54100
+26,Male,Master's,Chargé RH,1.8,29600
+30,Male,Bachelor's,Assistant Administratif,7.3,30600
+29,Male,Baccalauréat,Responsable RH,7.4,35700
+28,Female,Bachelor's,Technicien de Maintenance,6.0,21800
+29,Female,PhD,Chercheur,0.6,37600
+28,Male,Master's,Data Scientist,3.0,39200
+23,Male,Master's,Développeur Software,0.0,39000
+39,Female,Bachelor's,Conducteur de Projet,15.8,34400
+29,Male,Bachelor's,Data Analyst,5.4,22100
+42,Male,Bachelor's,Office Manager,16.0,48900
+39,Male,PhD,Chef de Projet IT,10.4,61300
+34,Male,CAP/BEP,Account Manager,12.6,23400
+40,Female,Bachelor's,Commercial,10.5,27800
+29,Male,Master's,Ingénieur Systèmes,2.5,43700
+23,Male,Master's,Contrôleur de Gestion,0.0,28300
+35,Male,Master's,Développeur Software,9.2,52600
+44,Male,Bachelor's,Technicien de Maintenance,10.1,20500
+46,Female,Master's,Consultant Finance,22.4,60800
+54,Male,PhD,Consultant IT,20.6,58300
+44,Male,Bachelor's,Développeur Software,10.2,32600
+37,Male,Master's,Responsable Marketing,9.3,55500
+26,Male,Bachelor's,Enseignant,3.4,20100
+33,Female,Master's,Responsable Commercial,8.9,56800
+48,Female,Baccalauréat,Comptable,28.1,22300
+33,Female,PhD,Commercial,3.0,35400
+37,Female,Master's,Data Analyst,10.9,30700
+34,Female,Bachelor's,Contrôleur de Gestion,11.9,33700
+38,Male,Bachelor's,Conducteur de Projet,7.5,36700
+44,Female,Bachelor's,Responsable RH,7.0,50500
+39,Male,PhD,ML Engineer,9.9,103900
+39,Female,PhD,Conducteur de Projet,10.0,27200
+46,Male,Baccalauréat,Assistant Administratif,17.8,25200
+48,Male,PhD,Chercheur,18.3,45900
+32,Male,Master's,Assistant Administratif,6.6,32400
+46,Female,Master's,Directeur Financier,20.4,97800
+37,Female,Bachelor's,Account Manager,7.3,36600
+41,Male,Bachelor's,Business Developer,20.0,57300
+27,Female,Bachelor's,Analyste Financier,2.3,37200
+38,Male,CAP/BEP,Chargé RH,13.1,21700
+40,Female,PhD,Médecin,11.1,118400
+41,Female,Bachelor's,Comptable,18.8,27600
+53,Female,Bachelor's,Juriste,28.8,46500
+42,Male,Master's,Chargé de Communication,14.9,43200
+42,Male,Bachelor's,Commercial,14.6,31200
+48,Female,Master's,Data Analyst,12.9,54600
+43,Male,Bachelor's,Comptable,22.0,39900
+41,Male,PhD,Médecin,1.0,84800
+50,Female,Bachelor's,Responsable Marketing,23.8,31600
+53,Female,Master's,Responsable Commercial,25.3,55800
+45,Male,Master's,Consultant IT,6.7,33000
+42,Male,Master's,Analyste Financier,12.5,65300
+37,Male,PhD,Analyste Financier,4.8,53300
+32,Male,Master's,Responsable RH,2.7,40500
+38,Female,Master's,Data Scientist,14.2,47000
+38,Male,Master's,Chef de Projet IT,13.4,47100
+48,Male,Master's,Consultant Finance,6.9,52200
+44,Female,Master's,Ingénieur Systèmes,21.0,58800
+30,Female,Bachelor's,Chargé RH,6.1,20400
+44,Male,Baccalauréat,DevOps Engineer,16.4,48800
+38,Male,Baccalauréat,Conducteur de Projet,8.6,28300
+54,Male,Baccalauréat,Chargé RH,18.5,42800
+41,Male,Bachelor's,Chargé RH,20.0,46100
+44,Female,CAP/BEP,Infirmier,12.3,18400
+43,Male,Master's,Responsable RH,20.0,60100
+45,Male,Bachelor's,Responsable Marketing,15.4,26400
+29,Male,Bachelor's,Account Manager,6.1,29100
+37,Female,Master's,Enseignant,10.1,31300
+38,Male,Master's,Contrôleur de Gestion,10.3,42700
+44,Male,Bachelor's,ML Engineer,15.0,51400
+51,Male,Master's,Directeur Financier,18.6,88200
+37,Female,Bachelor's,Ingénieur Systèmes,16.0,34000
+39,Female,Master's,Account Manager,14.6,38400
+35,Female,Baccalauréat,Développeur Software,4.8,36400
+38,Female,Baccalauréat,Commercial,11.4,24100
+37,Female,Bachelor's,Commercial,10.9,28300
+43,Male,Master's,Consultant IT,17.3,74000
+42,Female,Master's,Développeur Software,9.5,35300
+27,Female,PhD,Data Engineer,0.0,38100
+41,Female,Baccalauréat,Chargé RH,15.1,35300
+40,Male,Baccalauréat,Technicien de Maintenance,21.6,25700
+55,Male,Baccalauréat,Commercial,29.6,42600
+50,Female,CAP/BEP,Data Analyst,11.5,20400
+41,Female,PhD,Développeur Software,12.6,36300
+34,Female,Bachelor's,Assistant Administratif,9.4,20800
+38,Male,PhD,Consultant Finance,5.7,74500
+52,Male,CAP/BEP,Chargé RH,19.5,37000
+34,Male,Master's,Architecte Cloud,11.0,71500
+30,Female,Bachelor's,Assistant Administratif,6.3,17764
+30,Male,CAP/BEP,Office Manager,8.1,23300
+23,Female,Master's,Consultant IT,0.0,45700
+23,Male,Master's,Contrôleur de Gestion,0.0,79900
+26,Male,Bachelor's,Commercial,1.6,17900
+40,Female,Master's,Enseignant,14.4,31700
+40,Male,Baccalauréat,Développeur Software,16.1,37700
+35,Male,Master's,Juriste,10.2,36600
+45,Female,Master's,Data Engineer,14.3,57200
+47,Male,Bachelor's,Chargé RH,10.1,22500
+23,Male,Master's,Data Scientist,0.0,49700
+31,Female,Master's,Data Engineer,5.8,50400
+41,Male,PhD,Développeur Software,9.6,83600
+36,Female,Master's,Chef de Projet IT,9.4,34200
+41,Male,Master's,Conducteur de Projet,5.8,48300
+38,Male,Master's,Contrôleur de Gestion,13.2,44200
+46,Male,PhD,DevOps Engineer,15.9,76100
+21,Male,Bachelor's,DevOps Engineer,0.0,51800
+30,Male,Bachelor's,Infirmier,3.4,24800
+39,Male,Master's,Consultant IT,11.9,51500
+51,Male,Master's,Analyste Financier,25.5,56200
+34,Male,Bachelor's,Architecte Cloud,6.6,62700
+41,Female,Master's,Développeur Software,13.0,54400
+32,Male,CAP/BEP,ML Engineer,11.0,34900
+28,Male,PhD,Consultant Finance,0.4,49700
+40,Female,Master's,DevOps Engineer,13.8,54400
+33,Male,Baccalauréat,Responsable RH,13.9,27900
+39,Female,Bachelor's,Comptable,10.4,28100
+30,Female,Baccalauréat,Technicien de Maintenance,10.7,18200
+28,Male,Master's,Responsable Commercial,3.1,54500
+22,Male,Bachelor's,Chargé de Communication,0.9,17764
+52,Male,PhD,Analyste Financier,25.0,77800
+43,Female,Master's,Contrôleur de Gestion,10.1,37600
+46,Female,Master's,Consultant Finance,13.7,60600
+35,Male,Baccalauréat,Médecin,11.5,61300
+44,Male,Bachelor's,Infirmier,15.0,28900
+35,Male,Bachelor's,Technicien de Maintenance,10.6,26100
+30,Male,Baccalauréat,Assistant Administratif,10.2,24200
+41,Male,Master's,Account Manager,10.4,42300
+44,Female,Master's,ML Engineer,13.8,57000
+27,Female,Master's,Chef de Projet IT,1.8,24800
+35,Female,CAP/BEP,ML Engineer,11.4,35900
+40,Male,CAP/BEP,Chargé RH,22.0,31000
+29,Male,Master's,Responsable Commercial,3.5,58700
+31,Female,Bachelor's,Assistant Administratif,10.0,27400
+46,Male,PhD,Chercheur,7.9,35200
+46,Male,Master's,ML Engineer,19.7,64600
+38,Male,Master's,Responsable Marketing,15.0,39300
+54,Female,Master's,Data Analyst,22.3,44300
+54,Female,Master's,Juriste,12.2,43500
+42,Male,Master's,Consultant IT,18.0,94300
+33,Male,Bachelor's,Comptable,3.3,33300
+57,Male,Master's,Technicien de Maintenance,32.8,42700
+35,Female,Master's,Consultant IT,8.3,41900
+42,Male,Bachelor's,Data Analyst,12.2,35700
+48,Female,Master's,Contrôleur de Gestion,25.0,52400
+25,Male,Baccalauréat,Enseignant,6.2,32600
+43,Female,Master's,Chef de Projet IT,15.0,47200
+36,Female,Master's,Consultant IT,13.0,40900
+29,Female,Baccalauréat,Pharmacien,6.6,31800
+31,Male,Bachelor's,Logisticien,5.9,25600
+48,Female,Master's,Juriste,15.3,48800
+35,Male,CAP/BEP,Technicien de Maintenance,3.1,17764
+26,Male,Master's,Responsable Marketing,2.4,48500
+50,Female,Master's,Responsable RH,17.6,51400
