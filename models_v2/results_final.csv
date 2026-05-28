@@ -1,0 +1,13 @@
+Rang,Modèle,R²,MAE,RMSE,MAPE
+1,CatBoost (Optuna),0.6933,6740.0,9081.0,16.8
+2,🏆 Stacking (RF+XGB+LGB+Cat → Ridge),0.6923,6747.0,9096.0,16.77
+3,LightGBM (Optuna),0.6877,6811.0,9164.0,17.01
+4,CatBoost (default),0.6871,6809.0,9172.0,16.91
+5,XGBoost (Optuna),0.6867,6811.0,9178.0,17.01
+6,Random Forest (Optuna),0.6733,6870.0,9372.0,17.32
+7,MLP PyTorch (Deep Learning),0.6714,6847.0,9400.0,16.850000381469727
+8,Random Forest (default),0.6639,6983.0,9506.0,17.55
+9,LightGBM (default),0.6584,7093.0,9584.0,17.67
+10,Régression Linéaire,0.6453,7217.0,9766.0,18.33
+11,Ridge (alpha=10),0.6453,7213.0,9765.0,18.31
+12,XGBoost (default),0.6432,7359.0,9795.0,18.22
