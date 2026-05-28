@@ -1,8 +1,0 @@
-{
-  "name": "CatBoost (Optuna)",
-  "r2": 0.6933,
-  "mae": 6740.0,
-  "rmse": 9081.0,
-  "mape": 16.8,
-  "rank_total": 12
-}
